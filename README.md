@@ -6,6 +6,7 @@
 - [LinkedIn]()
 - Resume/Job Scan
 - Networking
+- Apprenticeships
 
 ## Technical (in progress)
 - Unit 00: Algorithmic Thinking
