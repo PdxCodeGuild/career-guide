@@ -41,6 +41,7 @@ Your info head will be the first thing people see so you want to make a good fir
 
 ## Licenses & Certificates
 - LinkedIn Learning (free with Multnomah Library Card) courses yield certificates. Add them!
+- [LinkedIn Learning Library Login](https://www.lynda.com/portal/patron?org=multcolib.org)
 
 ## Skills & Endorsements
 - Add all the skills!
