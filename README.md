@@ -3,7 +3,7 @@
 ## Topics
 - Soft Skills
 - GitHub/Portfolio
-- [LinkedIn]()
+- [LinkedIn](https://github.com/PdxCodeGuild/career-guide/blob/master/linkedin/linkedin.md)
 - Resume/Job Scan
 - Networking
 
