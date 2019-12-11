@@ -1,5 +1,7 @@
 # LinkedIn
 
+[Back to main page](https://github.com/PdxCodeGuild/career-guide)
+
 Before optimizing your LinkedIn profile, you'll need to [create an account](https://www.linkedin.com/start/join) and login.
 
 ## Vanity URL
@@ -54,7 +56,7 @@ Your info head will be the first thing people see so you want to make a good fir
 # Accomplishments
 - Add projects
   - if group projects, add teammates
-  - last line of each project should be the tech stack you used 
+  - last line of each project should be the tech stack you used
 
 # Interests
 - Follow relevant topics and people
