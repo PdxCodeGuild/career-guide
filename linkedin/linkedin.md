@@ -8,7 +8,7 @@ When creating a LinkedIn for the first time, you might notice that your profile 
 
 This is way to long to include on a resume. A shortened version of this would work better. Some people will change their vanity URL to something resembling their name (i.e. lnguyen or lisan). I wanted to stand out and start a brand so I chose **thecraftycoder** as my online persona. I'm sure you'll agree, **thecraftycoder** looks way better on a resume than **lisa-nguyen-245b5b42**.
 
-If you would like to do the same, follow the steps outlined [here](linkedin\vanity_url.md).!
+If you would like to do the same, follow the steps outlined [here](https://github.com/PdxCodeGuild/career-guide/blob/master/linkedin/vanity_url.md).!
 
 ## Info Header
 
