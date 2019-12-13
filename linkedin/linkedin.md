@@ -1,6 +1,10 @@
 # LinkedIn
 
-Before optimizing your LinkedIn profile, you'll need to [create an account](https://www.linkedin.com/start/join) and login.
+Before optimizing your LinkedIn profile, you'll need to:
+- [create an account](https://www.linkedin.com/start/join) and login
+- [follow this guide to fill out your profile](https://docs.google.com/presentation/d/1mzVJjIXseBKKxgni1oz5_mc-az2Iv7F7-lvosfIRq4A/edit?fbclid=IwAR1izy7xjaVMbxvjExm3OZxhEiNzH-lmdbaohEnHS7NgRQaJHZN_FepXWA0#slide=id.p)
+
+If you already have a Linkedin account and have content, please follow the tips below to utilize some of LinkedIn's best features.
 
 ## Vanity URL
 
