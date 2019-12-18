@@ -63,4 +63,4 @@ You're more than welcome to try formatting your resume yourself. However, for th
 For engineers from non-traditional backgrounds and new grads, because you don't have relevant work experience, you should emphasize your projects. In the project section, you can highlight transferable skills.
 
 ## Resume Examples
-- Lisa Nguyen | Full Stack Dev
+- [Lisa Nguyen | Full Stack Dev](lisa-nguyen_full-stack-dev_July19.pdf)

@@ -6,7 +6,7 @@ The first step to getting a job is getting noticed. To get that first initial en
 
 - [LinkedIn](https://github.com/PdxCodeGuild/career-guide/blob/master/linkedin/linkedin.md)
 - Resume
-  - Part 1: Gathering Content
+  - [Part 1: Gathering Content](https://github.com/PdxCodeGuild/career-guide/blob/master/resume/resume.md)
   - Part 2: Formatting
 - GitHub
 - Portfolio
