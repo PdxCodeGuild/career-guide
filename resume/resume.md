@@ -68,3 +68,4 @@ For engineers from non-traditional backgrounds and new grads, because you don't 
 
 ## Resume Examples
 - [Lisa Nguyen | Full Stack Dev](lisa-nguyen_full-stack-dev_July19.pdf)
+- [Jennifer Young | Software Engineer](jen_young_swe.jpeg)

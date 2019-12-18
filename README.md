@@ -15,7 +15,7 @@ The first step to getting a job is getting noticed. To get that first initial en
 
 ## Technical Prep
 
-Unsure what a coding interview will be like? Watch this [Example Coding Interview at Google](https://www.youtube.com/watch?v=XKu_SEDAykw)
+Unsure what a coding interview will be like? Watch this [example coding interview at Google](https://www.youtube.com/watch?v=XKu_SEDAykw)
 
 - Unit 00: Algorithmic Thinking
   - [Big O Notation](https://github.com/PdxCodeGuild/career-guide/blob/master/0_algorithmic_thinking/big_o_notation.md) (In progress)
