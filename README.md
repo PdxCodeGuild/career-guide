@@ -18,6 +18,9 @@ The first step to getting a job is getting noticed. To get that first initial en
 Unsure what a coding interview will be like? Watch this [Example Coding Interview at Google](https://www.youtube.com/watch?v=XKu_SEDAykw)
 
 - Unit 00: Algorithmic Thinking
+  - [Big O Notation](https://github.com/PdxCodeGuild/career-guide/blob/master/0_algorithmic_thinking/big_o_notation.md) (In progress)
+  - [Data Structures](https://github.com/PdxCodeGuild/career-guide/blob/master/0_algorithmic_thinking/data_structures.md)
+  - [Logarithms](https://github.com/PdxCodeGuild/career-guide/blob/master/0_algorithmic_thinking/logarithms.md)
 - Unit 01: Array and String Manipulation
 - Unit 02: Hashing and hash tables
 - Unit 03: Greedy Algorithms
