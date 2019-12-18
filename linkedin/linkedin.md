@@ -1,6 +1,6 @@
 # LinkedIn
 
-[Back to main page](https://github.com/PdxCodeGuild/career-guide)
+- [Back to Main Page](https://github.com/PdxCodeGuild/career-guide)
 
 ## Vanity URL
 

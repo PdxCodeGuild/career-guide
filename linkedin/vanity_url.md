@@ -1,4 +1,6 @@
 # Vanity URL Instructions
+- [Back to LinkedIn Article](https://github.com/PdxCodeGuild/career-guide/blob/master/linkedin/linkedin.md)
+- [Back to Main Page](https://github.com/PdxCodeGuild/career-guide)
 
 1. Click on your profile icon and select **View profile**.
 

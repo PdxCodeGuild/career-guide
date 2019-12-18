@@ -1,4 +1,5 @@
 # Resumes
+- [Back to Main Page](https://github.com/PdxCodeGuild/career-guide)
 
 ## Quick Facts
 - As per Jobvite Recruiter Nation Report, recruiters look for the following on your resume:
