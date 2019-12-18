@@ -6,6 +6,7 @@
 - [LinkedIn](https://github.com/PdxCodeGuild/career-guide/blob/master/linkedin/linkedin.md)
 - Resume/Job Scan
 - Networking
+- Apprenticeships
 
 ## Technical (in progress)
 - Unit 00: Algorithmic Thinking
