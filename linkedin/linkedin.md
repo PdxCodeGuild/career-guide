@@ -49,13 +49,46 @@ Your info head will be the first thing people see so you want to make a good fir
 - Add your classmates!
 - Endorse each other!
 
-# Recommendation
+## Recommendations
 - Write recommendations for each other
 
-# Accomplishments
+## Accomplishments
 - Add projects
   - if group projects, add teammates
   - last line of each project should be the tech stack you used
+- Add awards
 
-# Interests
+## Interests
 - Follow relevant topics and people
+
+## Engineers from Non-traditional backgrounds
+This will be a growing list of LinkedIn profiles of engineers from non-technical backgrounds. Check out their profiles for examples! Some will be more filled out than others
+
+### QA
+-[Davis Bare](https://www.linkedin.com/in/davis-bare/)
+-[Megan Eding](https://www.linkedin.com/in/meganeding/)
+
+### Front End
+- [Mónica Fidalgo](https://www.linkedin.com/in/monicafidalgo/)
+- [Chelsea Dover](https://www.linkedin.com/in/chelsea-dover/)
+-[Jennifer Young](https://www.linkedin.com/in/jennifercyoung/)
+
+### Backend
+- [Shawnee Pohlson](https://www.linkedin.com/in/shawneepohlson/)
+- [Susie Obrien](https://www.linkedin.com/in/susieobrien7/)
+
+### Full Stack/SWE
+- [Sepand Assadi](https://www.linkedin.com/in/sepandassadi/)
+  - Sepand's profile is filled out really well. I actually attended a workshop he led.
+- [Jadzia Thomas](https://www.linkedin.com/in/jadziahax/)
+- [Lupita Davila](https://www.linkedin.com/in/davilalupita/)
+- [Michelle Glauser](https://www.linkedin.com/in/michelleglauser/)
+
+### Program/Project/Product managers
+- [Amber Nash](https://www.linkedin.com/in/ambernash/)
+- [Kimberly Embry](https://www.linkedin.com/in/kimberly-embry-53346388/)
+
+
+
+
+## Change settings so recruiters know you're looking
