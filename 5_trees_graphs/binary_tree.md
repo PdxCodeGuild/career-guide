@@ -1,4 +1,5 @@
-# Binary Tree
+# <a href="top"></a>Binary Tree
+- [Back to Main Page](https://github.com/PdxCodeGuild/career-guide)
 
 Definition: A **binary tree** is a **tree** where every node has two or fewer children. The children are usually called left and right.
 
@@ -76,3 +77,5 @@ log<sub>2</sub> ((n+1)) = log<sub>2</sub> (2<sup>h</sup>)
 log<sub>2</sub> (n+1) = h
 
 So that's the relationship between height and total nodes in a perfect binary tree.
+
+[Back to top](#top)

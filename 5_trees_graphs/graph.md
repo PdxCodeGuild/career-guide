@@ -1,4 +1,4 @@
-# Graph Data Structure
+# <a href="top"></a> Graph Data Structure
 
 - [Data Structures: Trees by HackerRank](https://www.youtube.com/watch?v=oSWTXtMglKE)
 
@@ -36,6 +36,10 @@ A **graph coloring** is when you assign colors to each node in a graph. A **lega
 
   ![img](../resources/tree_graphs/5legal_illegal_coloring.PNG)
 
+**The rest of this article is in progress.**
+
 ## Representations
 
 There are a few different ways to store graphs. let's take this graph as an example:
+
+[Back to top](#top)
