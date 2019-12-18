@@ -30,6 +30,8 @@ Unsure what a coding interview will be like? Watch this [Example Coding Intervie
 - Unit 03: Greedy Algorithms
 - Unit 04: Sorting, searching, logarithms
 - Unit 05: Trees and graphs
+  - [Trees](https://github.com/PdxCodeGuild/career-guide/blob/master/5_trees_graphs/binary_tree.md)
+  - [Graphs](https://github.com/PdxCodeGuild/career-guide/blob/master/5_trees_graphs/graph.md)
 - Unit 06: Dynamic programming and recursion
 - Unit 07: Queues and stacks
 - Unit 08: Linked Lists
