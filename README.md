@@ -22,6 +22,10 @@ Unsure what a coding interview will be like? Watch this [Example Coding Intervie
   - [Data Structures](https://github.com/PdxCodeGuild/career-guide/blob/master/0_algorithmic_thinking/data_structures.md)
   - [Logarithms](https://github.com/PdxCodeGuild/career-guide/blob/master/0_algorithmic_thinking/logarithms.md)
 - Unit 01: Array and String Manipulation
+  - [Array Data Structure](https://github.com/PdxCodeGuild/career-guide/blob/master/1_array_string_manipulation/array_data_structure.md)
+  - [Dynamic Array](https://github.com/PdxCodeGuild/career-guide/blob/master/1_array_string_manipulation/dynamic_array.md)
+  - [Array Slicing](https://github.com/PdxCodeGuild/career-guide/blob/master/1_array_string_manipulation/array_slicing.md)
+  - [In-Place Algorithm](https://github.com/PdxCodeGuild/career-guide/blob/master/1_array_string_manipulation/in-place_algorithm.md)
 - Unit 02: Hashing and hash tables
 - Unit 03: Greedy Algorithms
 - Unit 04: Sorting, searching, logarithms
