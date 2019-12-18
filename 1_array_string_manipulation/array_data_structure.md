@@ -1,4 +1,5 @@
-# Array Data Structure
+# <a href="top"></a>Array Data Structure
+- [Back to Main Page](https://github.com/PdxCodeGuild/career-guide)
 
 Other names: static array
 
@@ -49,3 +50,5 @@ In the worst case we're deleting the 0th item in the array, so we have to "scoot
 Arrays are the building blocks for lots of other, more complex data structures.
 
 **Don't want to specify the size of your array ahead of time?** One option: use a [dynamic array]().
+
+[Back to top](#top)

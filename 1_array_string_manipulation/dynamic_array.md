@@ -1,5 +1,7 @@
 # Dynamic Array
 
+- [Back to Main Page](https://github.com/PdxCodeGuild/career-guide)
+
 Other names: array list, growable array, resizable array, mutable array
 
 ## Quick Reference

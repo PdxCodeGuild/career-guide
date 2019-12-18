@@ -1,4 +1,5 @@
 # In-Place Algorithm
+- [Back to Main Page](https://github.com/PdxCodeGuild/career-guide)
 
 An in-place function modifies data structures or objects outside of its own stack frame ↴ (i.e.: stored on the process heap or in the stack frame of a calling function). Because of this, the changes made by the function remain after the call completes.
 

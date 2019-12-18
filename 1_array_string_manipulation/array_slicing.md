@@ -1,4 +1,5 @@
 # Array Slicing
+- [Back to Main Page](https://github.com/PdxCodeGuild/career-guide)
 
 **Array slicing** involves taking a subset from an array and **allocating a new array with those elements**.
 
