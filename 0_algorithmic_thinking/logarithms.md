@@ -1,4 +1,5 @@
-# Logarithm
+# <a href="top"></a>Logarithm
+- [Back to Main Page](https://github.com/PdxCodeGuild/career-guide)
 
 ## Table of Contents
 - [What is it?](#what)
@@ -240,3 +241,5 @@ There's a specific notation for log base  that's sometimes used: _lg_. So we cou
 
 In the big O notation, the base is considered a constant. So folk usually don't include it. People usually say O(log _n_), not O(log<sub>2</sub>n).
 But people might still use the special notation lg _n_, as in O(lg n). It saves us from having to write an "o".
+
+[Back to top](#top)
