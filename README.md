@@ -1,14 +1,22 @@
 # Career Prep Guide
 
-## Topics
-- Soft Skills
-- GitHub/Portfolio
+## Getting Noticed
+
+The first step to getting a job is getting noticed. To get that first initial encounter with recruiters, we recommend the following articles:
+
 - [LinkedIn](https://github.com/PdxCodeGuild/career-guide/blob/master/linkedin/linkedin.md)
-- Resume/Job Scan
+- Resume
+  - Part 1: Gathering Content
+  - Part 2: Formatting
+- GitHub
+- Portfolio
 - Networking
 - Apprenticeships
 
-## Technical (in progress)
+## Technical Prep
+
+Unsure what a coding interview will be like? Watch this [Example Coding Interview at Google](https://www.youtube.com/watch?v=XKu_SEDAykw)
+
 - Unit 00: Algorithmic Thinking
 - Unit 01: Array and String Manipulation
 - Unit 02: Hashing and hash tables
@@ -23,4 +31,6 @@
 - Unit 11: Bit manipulation
 - Unit 12: Combinatorics, probability, and other math
 - Unit 13: JavaScript
+
+## Coding Interview tips
 - Unit 14: Coding Interview Tips
