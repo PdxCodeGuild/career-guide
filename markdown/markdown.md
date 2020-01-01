@@ -1,4 +1,5 @@
 # Markdown
+[Back to Main Page](https://github.com/PdxCodeGuild/career-guide)
 
 Don't underestimate Markdown. As long as there is documentation on Engineering teams, Markdown will be required! For this lesson, instead of reading an article, we will be working on a lab.
 
