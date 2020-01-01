@@ -1,4 +1,5 @@
-# Apprenticeships
+# <a href="top"></a>Apprenticeships
+[Back to Main Page](https://github.com/PdxCodeGuild/career-guide)
 
 An apprenticeship is a 6 to 12 month (or longer!) paid training program aimed at developing mastery in specialized, high demand skills. Whether companies today utilize this age old concept to address learning and development in onboarding new employees, internal career progression by establishing clear paths for lateral and vertical promotions, critical hiring gaps for people from non-traditional education backgrounds, or expanding their commitment to inclusive company values: it all comes back to apprenticeship.
 
@@ -7,6 +8,8 @@ An apprenticeship is a 6 to 12 month (or longer!) paid training program aimed at
 - [launchcode](https://www.launchcode.org/apply)
 
 ## Quick Glance
+
+Here is a growing list of apprenticeships that accept applicants from non-technical backgrounds. If you have an apprenticeship you'd like to add: create a new branch, apply your changes, and create a pull request!
 
 | Company | Location | Role |  | Note |
 | ------- |----------| -----| -------- | ---- |
@@ -32,3 +35,5 @@ An apprenticeship is a 6 to 12 month (or longer!) paid training program aimed at
 | AirBnb | SF | Software Engineering Apprenticeship | Oct 2019 | |
 | Expedia | Bellevue & SF | Summer Developer Apprenticeship | Oct 2019 | |
 | Dropbox | SF | [Summer Developer Apprenticeship](https://www.linkedin.com/jobs/view/ignite-apprenticeship-program-at-dropbox-1393799318/) | | Duration: 6 months (October 2019-March 2020) |
+
+[Back to Top](#top)
