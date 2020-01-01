@@ -12,7 +12,7 @@ The first step to getting a job is getting noticed. To get that first initial en
 - GitHub
 - Portfolio
 - Networking
-- Apprenticeships
+- [Apprenticeships](https://github.com/PdxCodeGuild/career-guide/blob/master/apprenticeships.md)
 
 ## Technical Prep
 
