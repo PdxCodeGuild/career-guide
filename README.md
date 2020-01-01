@@ -10,7 +10,10 @@ The first step to getting a job is getting noticed. To get that first initial en
   - [Part 1: Gathering Content](https://github.com/PdxCodeGuild/career-guide/blob/master/resume/resume.md)
   - Part 2: Formatting
 - GitHub
-- Portfolio
+  - Part 1: Mastering Markdown
+  - Part 2: An Impressive README.md
+  - Part 3: GitHub Portfolio
+- Other Portfolios
 - Networking
 - [Apprenticeships](https://github.com/PdxCodeGuild/career-guide/blob/master/apprenticeships.md)
 
