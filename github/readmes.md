@@ -31,3 +31,5 @@ The following items will help your READMEs stand out:
 - [WebApp](https://github.com/iharsh234/WebApp#readme)
 - [joe](https://github.com/karan/joe#readme)
 - [Toast UI Editor](https://github.com/nhn/tui.editor#readme)
+
+More README examples, tools, and resources can be found [here](https://github.com/matiassingers/awesome-readme).
