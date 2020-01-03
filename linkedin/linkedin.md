@@ -65,13 +65,13 @@ Your info head will be the first thing people see so you want to make a good fir
 This will be a growing list of LinkedIn profiles of engineers from non-technical backgrounds. Check out their profiles for examples! Some will be more filled out than others
 
 ### QA
--[Davis Bare](https://www.linkedin.com/in/davis-bare/)
--[Megan Eding](https://www.linkedin.com/in/meganeding/)
+- [Davis Bare](https://www.linkedin.com/in/davis-bare/)
+- [Megan Eding](https://www.linkedin.com/in/meganeding/)
 
 ### Front End
 - [Mónica Fidalgo](https://www.linkedin.com/in/monicafidalgo/)
 - [Chelsea Dover](https://www.linkedin.com/in/chelsea-dover/)
--[Jennifer Young](https://www.linkedin.com/in/jennifercyoung/)
+- [Jennifer Young](https://www.linkedin.com/in/jennifercyoung/)
 
 ### Backend
 - [Shawnee Pohlson](https://www.linkedin.com/in/shawneepohlson/)
