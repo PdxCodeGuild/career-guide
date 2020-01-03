@@ -88,7 +88,14 @@ This will be a growing list of LinkedIn profiles of engineers from non-technical
 - [Amber Nash](https://www.linkedin.com/in/ambernash/)
 - [Kimberly Embry](https://www.linkedin.com/in/kimberly-embry-53346388/)
 
-
-
-
 ## Change settings so recruiters know you're looking
+- Your current employer will not be able to see this.
+
+## Start adding internal recruiters from your dream companies!
+- That way you're on their radar for future roles!
+
+## Add someone from Medley (Recruiting Agency)
+
+Medley is a strategic recruitment and executive search firm in the diversity and inclusion space who specialize in direct-hire, full-time placements in tech, consumer product, and creative industries.
+
+Check out the [team](https://medleyhire.com/intersectional-team) and add a few of the recruiters on LinkedIn! Make sure you include a personal message!
