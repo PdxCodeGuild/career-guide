@@ -14,7 +14,7 @@ The first step to getting a job is getting noticed. To get that first initial en
   - [Part 2: An Impressive README.md](https://github.com/PdxCodeGuild/career-guide/blob/master/github/readmes.md)
   - Part 3: GitHub Portfolio
 - Other Portfolios
-- Networking
+- [Networking & Community Support](https://github.com/PdxCodeGuild/career-guide/blob/master/networking.md)
 - [Apprenticeships](https://github.com/PdxCodeGuild/career-guide/blob/master/apprenticeships.md)
 
 ## Technical Prep
