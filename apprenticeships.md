@@ -25,6 +25,7 @@ Here is a growing list of apprenticeships that accept applicants from non-techni
 | IBM | Various | [Various](https://www.ibm.com/us-en/employment/newcollar/apprenticeships.html) |  |  |
 | Asana | SF, NY | [SW Engineering Intern](https://asana.com/jobs/apply/1793597/intern--software-engineering) |  |  |
 | Pandora | Oakland & Atlanta | [Engineering Apprentice](https://pandora.com/static/careers/demotape.html#application) | Jan 28, 2020 |  |
+| New Relic | Portland | [Associate Software Engineer](https://blog.newrelic.com/product-news/ignite-hiring-early-career-engineers/) | Jan 2020 |  |
 | AltSource | Portland |[Incubator Program](https://altsourcesoftware.com/careers/) | N/A | Availability based on need |
 
 
