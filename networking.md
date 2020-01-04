@@ -5,6 +5,7 @@
 
 Below are some tech groups that may interest you:
 
+- [Portland JR DEVELOPER Meetup!](https://www.meetup.com/Portland-JR-DEVELOPER-Meetup/)
 - [AgilePDX User Group - Portland Metro](https://www.meetup.com/AgilePDX-User-Group-Portland-Metro/)
 - [Amazon Presents: Alexa Skill Building](https://www.meetup.com/Amazon-Presents-Alexa-Skill-Building/)
 - [Beers with Engineers](https://www.meetup.com/pdxbwe/)
@@ -23,7 +24,12 @@ Below are some tech groups that may interest you:
 - [Code for PDX](https://www.meetup.com/Code-for-PDX/)
 
 ## Veterans
+- [Easter Seals](https://www.easterseals.org/about-us/what-we-do/)
+- [Operation Code - Portland](https://www.meetup.com/Operation-Code-Portland/)
 - [PDX Veterans in Technology](https://www.meetup.com/Veterans-in-Technology/)
+- [Vets Who Code](https://vetswhocode.io/)
+- [VetTec](https://www.benefits.va.gov/gibill/fgib/vettec.asp)
+- [Vet Tech](http://vet-tech.us/)
 
 ## Diversity in Tech
 - [ChickTech: Portland](https://www.meetup.com/ChickTech-Portland/)
