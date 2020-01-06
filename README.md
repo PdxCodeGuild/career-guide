@@ -21,6 +21,9 @@ The first step to getting a job is getting noticed. To get that first initial en
 
 Unsure what a coding interview will be like? Watch this [example coding interview at Google](https://www.youtube.com/watch?v=XKu_SEDAykw)
 
+### Theory
+Below are my notes. If you would prefer a textbook, please check out [Data Structures and Algorithms by Granville Barnett and Luca Del Tongo](https://apps2.mdp.ac.id/perpustakaan/ebook/Karya%20Umum/Dsa.pdf).
+
 - Unit 00: Algorithmic Thinking
   - [Big O Notation](https://github.com/PdxCodeGuild/career-guide/blob/master/0_algorithmic_thinking/big_o_notation.md) (In progress)
   - [Data Structures](https://github.com/PdxCodeGuild/career-guide/blob/master/0_algorithmic_thinking/data_structures.md)
@@ -45,7 +48,22 @@ Unsure what a coding interview will be like? Watch this [example coding intervie
 - Unit 12: Combinatorics, probability, and other math
 - Unit 13: JavaScript
 
+### Practical
+Theory is great but let's put it to action.
+- [Interview Prep by Freecodecamp.org](https://www.freecodecamp.org/learn/)
+  - the last section offers a ton of challenges
+
+Recommendations from Google Engineers:
+- [Project Euler](https://projecteuler.net/)
+- [Interview Preparation Kit by Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit)
+- [Leetcode](https://leetcode.com/)
+- [500 Data Structures and Algorithms](https://www.quora.com/q/kqxqbzywcunzbyyp/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
+- [Top 10 Algos in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+- [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
+
 ## Coding Interview tips
-- Unit 14: Coding Interview Tips
+- [Average to Googler in Four Weeks: A Study Plan](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/?trk=v-feed)
+- [Tips and Guidelines by Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit/tips-and-guidelines/videos)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/)
 
 [Back to Top](#top)
