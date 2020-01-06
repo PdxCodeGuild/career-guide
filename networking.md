@@ -33,6 +33,7 @@ Below are some tech groups that may interest you:
 - [Vet Tech](http://vet-tech.us/)
 
 ## Diversity in Tech
+- [Aspirations in Computing](https://www.aspirations.org/)
 - [ChickTech: Portland](https://www.meetup.com/ChickTech-Portland/)
 - [Portland Women in Technology (PDXWIT)](https://www.meetup.com/Portland-Women-in-Technology/)
 - [PyLadies PDX](https://www.meetup.com/PyLadies-PDX/)
@@ -48,5 +49,10 @@ Below are some tech groups that may interest you:
 - [Hispanic Pros](https://www.facebook.com/hispanicpros)
 - [Latinx Tech PDX](https://www.meetup.com/LatinxTechPDX/)
 - [Techqueria](https://techqueria.org/)
+- [Tech Rise PDX](http://www.techrisepdx.org/)
+
+## Return to Work
+- [Intuit Again - Return to work for caregivers](https://intuitagain.com/)
+- [The Last Mile - Job opportunities for returning citizens](https://slackhq.com/next-chapter-a-pilot-program-aiming-to-help-formerly-incarcerated-individuals-find-work-and-succeed-in-tech)
 
 [Back to Top](#top)
