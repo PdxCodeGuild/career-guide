@@ -24,6 +24,7 @@ Below are some tech groups that may interest you:
 - [Code for PDX](https://www.meetup.com/Code-for-PDX/)
 
 ## Veterans
+- [Boost with Facebook](https://www.facebook.com/boost/milvethub)
 - [Easter Seals](https://www.easterseals.org/about-us/what-we-do/)
 - [Operation Code - Portland](https://www.meetup.com/Operation-Code-Portland/)
 - [PDX Veterans in Technology](https://www.meetup.com/Veterans-in-Technology/)
