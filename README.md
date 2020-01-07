@@ -21,6 +21,9 @@ The first step to getting a job is getting noticed. To get that first initial en
 
 Unsure what a coding interview will be like? Watch this [example coding interview at Google](https://www.youtube.com/watch?v=XKu_SEDAykw)
 
+### Crash Course
+- [The top data structures you should know for your next coding interview](https://www.freecodecamp.org/news/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3/)
+
 ### Theory
 Below are my notes. If you would prefer a textbook, please check out [Data Structures and Algorithms by Granville Barnett and Luca Del Tongo](https://apps2.mdp.ac.id/perpustakaan/ebook/Karya%20Umum/Dsa.pdf).
 
