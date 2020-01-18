@@ -19,6 +19,7 @@ Below are some tech groups that may interest you:
 -[Portland MongoDB User Group](https://www.meetup.com/Portland-MongoDB-User-Group/)
 - [NewTech PDX](https://www.meetup.com/NewTechPDX/)
 - [Vue.js Portland Meetup](https://www.meetup.com/Portland-Vue-js-Meetup/)
+- [46 Slack groups for developers](https://techbeacon.com/app-dev-testing/46-slack-groups-developers)
 
 ## Volunteer Work
 - [Code for PDX](https://www.meetup.com/Code-for-PDX/)
