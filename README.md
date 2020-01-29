@@ -28,31 +28,8 @@ Unsure what a coding interview will be like? Watch this [example coding intervie
 - [The top data structures you should know for your next coding interview](https://www.freecodecamp.org/news/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3/)
 
 ### Theory
-Below are my notes. If you would prefer a textbook, please check out [Data Structures and Algorithms by Granville Barnett and Luca Del Tongo](https://apps2.mdp.ac.id/perpustakaan/ebook/Karya%20Umum/Dsa.pdf).
 
-- Unit 00: Algorithmic Thinking
-  - [Big O Notation](https://github.com/PdxCodeGuild/career-guide/blob/master/0_algorithmic_thinking/big_o_notation.md) (In progress)
-  - [Data Structures](https://github.com/PdxCodeGuild/career-guide/blob/master/0_algorithmic_thinking/data_structures.md)
-  - [Logarithms](https://github.com/PdxCodeGuild/career-guide/blob/master/0_algorithmic_thinking/logarithms.md)
-- Unit 01: Array and String Manipulation
-  - [Array Data Structure](https://github.com/PdxCodeGuild/career-guide/blob/master/1_array_string_manipulation/array_data_structure.md)
-  - [Dynamic Array](https://github.com/PdxCodeGuild/career-guide/blob/master/1_array_string_manipulation/dynamic_array.md)
-  - [Array Slicing](https://github.com/PdxCodeGuild/career-guide/blob/master/1_array_string_manipulation/array_slicing.md)
-  - [In-Place Algorithm](https://github.com/PdxCodeGuild/career-guide/blob/master/1_array_string_manipulation/in-place_algorithm.md)
-- Unit 02: Hashing and hash tables
-- Unit 03: Greedy Algorithms
-- Unit 04: Sorting, searching, logarithms
-- Unit 05: Trees and graphs
-  - [Trees](https://github.com/PdxCodeGuild/career-guide/blob/master/5_trees_graphs/binary_tree.md)
-  - [Graphs](https://github.com/PdxCodeGuild/career-guide/blob/master/5_trees_graphs/graph.md)
-- Unit 06: Dynamic programming and recursion
-- Unit 07: Queues and stacks
-- Unit 08: Linked Lists
-- Unit 09: System Design
-- Unit 10: General programming
-- Unit 11: Bit manipulation
-- Unit 12: Combinatorics, probability, and other math
-- Unit 13: JavaScript
+Under construction...
 
 ### Practical
 Theory is great but let's put it to action.
