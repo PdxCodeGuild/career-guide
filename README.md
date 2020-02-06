@@ -21,15 +21,10 @@ The first step to getting a job is getting noticed. To get that first initial en
 - [Apprenticeships](https://github.com/PdxCodeGuild/career-guide/blob/master/apprenticeships.md)
 
 ## Technical Prep
-
-Unsure what a coding interview will be like? Watch this [example coding interview at Google](https://www.youtube.com/watch?v=XKu_SEDAykw)
+- [Example coding interview](https://www.youtube.com/watch?v=XKu_SEDAykw).
 
 ### Crash Course
 - [The top data structures you should know for your next coding interview](https://www.freecodecamp.org/news/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3/)
-
-### Theory
-
-Under construction...
 
 ### Practical
 Theory is great but let's put it to action.
