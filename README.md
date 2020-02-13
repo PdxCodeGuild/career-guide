@@ -16,9 +16,11 @@ The first step to getting a job is getting noticed. To get that first initial en
 - Other Portfolios
 - [Networking & Community Support](https://github.com/PdxCodeGuild/career-guide/blob/master/networking.md)
 
-## Applying to Jobs
+## Looking for Open Opportunties
 - [Job Boards](applying-to-jobs/job-boards.md)
 - [Apprenticeships](applying-to-jobs/apprenticeships.md)
+
+## Applying to Opportunties
 
 ## Technical Prep
 - [Example coding interview](https://www.youtube.com/watch?v=XKu_SEDAykw) (video)
