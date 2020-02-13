@@ -17,8 +17,8 @@ The first step to getting a job is getting noticed. To get that first initial en
 - [Networking & Community Support](https://github.com/PdxCodeGuild/career-guide/blob/master/networking.md)
 
 ## Applying to Jobs
-- [Job Boards](https://github.com/PdxCodeGuild/career-guide/blob/master/job-boards.md)
-- [Apprenticeships](https://github.com/PdxCodeGuild/career-guide/blob/master/apprenticeships.md)
+- [Job Boards](applying-to-jobs/job-boards.md)
+- [Apprenticeships](applying-to-jobs/apprenticeships.md)
 
 ## Technical Prep
 - [Example coding interview](https://www.youtube.com/watch?v=XKu_SEDAykw) (video)
