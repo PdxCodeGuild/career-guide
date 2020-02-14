@@ -23,14 +23,14 @@ The first step to getting a job is getting noticed. To get that first initial en
 - Other Portfolios
 - [Networking & Community Support](https://github.com/PdxCodeGuild/career-guide/blob/master/networking.md)
 
-## <a href="looking">Looking for Open Opportunties
+## <a href="looking"></a>Looking for Open Opportunties
 - [Job Boards](applying-to-jobs/job-boards.md)
 - [Apprenticeships](applying-to-jobs/apprenticeships.md)
 
-## <a href="applying">Applying to Opportunties
+## <a href="applying"></a>Applying to Opportunties
 - [Analyze your chances before applying with Jobscan](applying-to-jobs/jobscan.md)
 
-## <a href="technical-prep">Technical Prep
+## <a href="technical-prep"></a>Technical Prep
 - [Example coding interview](https://www.youtube.com/watch?v=XKu_SEDAykw) (video)
 - [Interview Script](https://github.com/PdxCodeGuild/career-guide/blob/master/interview_script.md) - How it will go and what you should say!
 
@@ -50,7 +50,7 @@ Recommendations from Google Engineers:
 - [Top 10 Algos in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 - [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 
-## <a href="tips">Coding Interview tips
+## <a href="tips"></a>Coding Interview tips
 - [Average to Googler in Four Weeks: A Study Plan](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/?trk=v-feed)
 - [Tips and Guidelines by Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit/tips-and-guidelines/videos)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
