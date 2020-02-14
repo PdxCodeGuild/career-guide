@@ -21,6 +21,7 @@ The first step to getting a job is getting noticed. To get that first initial en
 - [Apprenticeships](applying-to-jobs/apprenticeships.md)
 
 ## Applying to Opportunties
+- [Analyze your chances before applying with Jobscan](applying-to-jobs/jobscan.md)
 
 ## Technical Prep
 - [Example coding interview](https://www.youtube.com/watch?v=XKu_SEDAykw) (video)
