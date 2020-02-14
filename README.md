@@ -1,6 +1,13 @@
 # <a href="top"></a>Career Prep Guide
 
-## Getting Noticed
+## Topics
+- [Getting Noticed](#getting-noticed)
+- [Where to Look for Opportunites](#looking)
+- [Apply to Opportunites](#applying)
+- [Technical Prep](#technical-prep)
+- [Coding Interview Tips](#tips)
+
+## <a href="getting-noticed"></a>Getting Noticed
 
 The first step to getting a job is getting noticed. To get that first initial encounter with recruiters, we recommend the following articles:
 
@@ -16,14 +23,14 @@ The first step to getting a job is getting noticed. To get that first initial en
 - Other Portfolios
 - [Networking & Community Support](https://github.com/PdxCodeGuild/career-guide/blob/master/networking.md)
 
-## Looking for Open Opportunties
+## <a href="looking">Looking for Open Opportunties
 - [Job Boards](applying-to-jobs/job-boards.md)
 - [Apprenticeships](applying-to-jobs/apprenticeships.md)
 
-## Applying to Opportunties
+## <a href="applying">Applying to Opportunties
 - [Analyze your chances before applying with Jobscan](applying-to-jobs/jobscan.md)
 
-## Technical Prep
+## <a href="technical-prep">Technical Prep
 - [Example coding interview](https://www.youtube.com/watch?v=XKu_SEDAykw) (video)
 - [Interview Script](https://github.com/PdxCodeGuild/career-guide/blob/master/interview_script.md) - How it will go and what you should say!
 
@@ -43,7 +50,7 @@ Recommendations from Google Engineers:
 - [Top 10 Algos in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 - [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 
-## Coding Interview tips
+## <a href="tips">Coding Interview tips
 - [Average to Googler in Four Weeks: A Study Plan](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/?trk=v-feed)
 - [Tips and Guidelines by Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit/tips-and-guidelines/videos)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
