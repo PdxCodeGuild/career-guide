@@ -1,12 +1,5 @@
 # <a href="top"></a>Career Prep Guide
 
-## Topics
-- [Getting Noticed](#getting-noticed)
-- [Where to Look for Opportunites](#looking)
-- [Apply to Opportunites](#applying)
-- [Technical Prep](#technical-prep)
-- [Coding Interview Tips](#tips)
-
 ## <a href="getting-noticed"></a>Getting Noticed
 
 The first step to getting a job is getting noticed. To get that first initial encounter with recruiters, we recommend the following articles:
