@@ -44,6 +44,9 @@ Recommendations from Google Engineers:
 - [Top 10 Algos in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 - [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 
+## Mock Interviews
+Mock Interviews will be offer by appointment only. For more info, please read our [Mock Interview documentation](mock-interviews.md).
+
 ## <a href="tips"></a>Coding Interview tips
 - [Average to Googler in Four Weeks: A Study Plan](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/?trk=v-feed)
 - [Tips and Guidelines by Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit/tips-and-guidelines/videos)
