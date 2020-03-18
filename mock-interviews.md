@@ -18,7 +18,7 @@ Question: For Given a sequence of words, print all anagrams together.
 Goal: Print all anagrams together
 
 Input: a list of strings
-Ex: str_list = ["eat", "bat", "ate", "tea", ,"bat", "tab" ]
+Ex: str_list = ["eat", "bat", "ate", "tea", "cat" ,"bat", "tab" ]
 Output: a dictionary where the key is the first word and the value is a list of its anagrams.
 
 Edgecases to test for:
