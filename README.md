@@ -33,6 +33,7 @@ The first step to getting a job is getting noticed. To get that first initial en
 
 ### Practical
 Theory is great but let's put it to action.
+- [HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 - [Interview Prep by Freecodecamp.org](https://www.freecodecamp.org/learn/)
   - the last section offers a ton of challenges
 
