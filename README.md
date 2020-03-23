@@ -17,8 +17,9 @@ The first step to getting a job is getting noticed. To get that first initial en
 - [LinkedIn](https://github.com/PdxCodeGuild/career-guide/blob/master/linkedin/linkedin.md)
 - <a href="resume"></a>Resume
   - [Slides from Resume 101 Workshop](https://docs.google.com/presentation/d/1gz5M2BbGGWw4dfspEc3ncsy5vNP5Mx7J_Df7_hFYPCk/edit#slide=id.p)
-  - [Part 1: Gathering Content](https://github.com/PdxCodeGuild/career-guide/blob/master/resume/resume.md)
-  - [Part 2: Resume Template](https://docs.google.com/document/d/1XQm8zTHvvz-_ldEifbvAUPXgGbZYwbAUnTuSyIvaCgQ/edit?usp=sharing)
+  - [Part 1: Resumes, an overview](resume\resume_overview.md)
+  - [Part 2: Gathering Content](resume\resume.md)
+  - [Part 3: Resume Template](https://docs.google.com/document/d/1XQm8zTHvvz-_ldEifbvAUPXgGbZYwbAUnTuSyIvaCgQ/edit?usp=sharing)
 - GitHub
 Beyond organizing your Github, make sure you stay active!
   - [Part 1: Mastering Markdown](https://github.com/PdxCodeGuild/career-guide/blob/master/markdown/markdown.md)
