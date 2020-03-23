@@ -23,9 +23,9 @@
 
 Do you have multiple versions of your resume scattered throughout your computer? Do you find yourself frantically looking for the right version to send to recruiter #476 ASAP? This use to be me. I've developed a way to organize all my info so that when I find a job I like, it's easy for me to apply quickly. Introducing... My Big Fat Resume!
 
-I have a 5 page [Google Doc](http://docs.google.com/) that acts like a master resume. This document is a living document that I keep updated and reference when applying to jobs. I don't use the same resume for each job that I apply to. I take my time with each opportunity and tailor my resume to it. For example, I often apply to Full Stack Developer and Product Manager positions. You might want to apply to Back End Developer or Database Developer positions. Either way, one resume cannot satisfy both job listings properly. Follow the steps below to start your Big Fat Resume,
+I have a 5 page [Google Doc](http://docs.google.com/) that acts like a master resume. This document is a living document that I keep updated and reference when applying to jobs. I don't use the same resume for each job that I apply to. I take my time with each opportunity and tailor my resume to it. For example, I often apply to Full Stack Developer and Product Manager positions. You might want to apply to Back End Developer or Database Developer positions. Either way, one resume cannot satisfy both job listings properly. Follow the steps below to start your Big Fat Resume:
 
-Gather relevant information in a master document. I like using [Google Docs](http://docs.google.com/) because it auto-saves in the cloud!
+To gather relevant information in a master document. I like using [Google Docs](http://docs.google.com/) because it auto-saves in the cloud!
 
   - Name
   - Job Title: should be the position you're applying for
