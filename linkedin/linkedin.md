@@ -2,7 +2,7 @@
 
 - [Back to Main Page](https://github.com/PdxCodeGuild/career-guide)
 
-LinkedIn is the the go-to social media platform for connecting with and building your professional network.
+LinkedIn is the the go-to social media platform for connecting with and building your professional network. Make sure your profile is 100% complete before linking your profile on your resume or in email signatures.
 
 ## Vanity URL
 
@@ -20,7 +20,9 @@ Your info head will be the first thing people see so you want to make a good fir
   - if you need a headshot, please email our office admin to schedule one: admin@pdxcodeguild.com
 - a background image relevant to your profession or hobby
 - a title
-  - job searchers: this should be the title of roles you're applying to so you'll show up in relevant search results
+  - Use highly searched keywords and informative headlines
+  - suggestion: this could be the title of roles you're applying to so you'll show up in relevant search results
+- shoot for 500 connections
 
 
   ![](../resources/linkedin/info-header.PNG)
@@ -38,6 +40,7 @@ Your info head will be the first thing people see so you want to make a good fir
 - I recommend using the following format when naming your resume file: FirstnameLastname-resume_MMMYYYY.pdf
 - If you'd like to kick it up a notch: FirstnameLastname-PositionResume_MMMYYYY.pdf (ex: LisaNguyen-FullStackDevResume_Jul2019.pdf)
 - Recruiters see hundreds of resumes a week. Make yours easy to find!
+- Attach Portfolio items in your Summary and Experience Sections.
 
 
 ### Front End Developers
@@ -65,12 +68,12 @@ Your info head will be the first thing people see so you want to make a good fir
 
 ## Skills & Endorsements
 - Add all the skills!
-  - Order them by strongest to weakest
+  - top 3 strongest at the top
 - Add your classmates!
 - Endorse each other!
 
 ## Recommendations
-- Write recommendations for each other
+- Write recommendations for classmates, instructors, former co-workers then ask for recommendations in return
 
 ## Accomplishments
 - Add projects
@@ -81,8 +84,9 @@ Your info head will be the first thing people see so you want to make a good fir
 
 - Add awards
 
-## Interests
+## Interests & Groups
 - Follow relevant topics and people
+- Become a member of at least seven LinkedIn groups and participate in group discussions.
 
 ## Change settings so recruiters know you're looking
 - Your current employer will not be able to see this.
