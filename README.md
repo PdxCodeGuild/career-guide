@@ -1,5 +1,9 @@
 # <a href="top"></a>Career Prep Guide
 
+## PDX Support Groups
+- [Alumni Hackerspace](https://portlandcodeguild.slack.com/archives/C010L9P9A4Q) (Slack)
+- [Job Leads](https://portlandcodeguild.slack.com/archives/C1CFFULCE) (Slack)
+
 ## <a href="getting-noticed"></a>Getting Noticed
 
 The first step to getting a job is getting noticed. To get that first initial encounter with recruiters, we recommend the following articles:
