@@ -1,5 +1,7 @@
 # <a href="top"></a>Career Prep Guide
 
+Below are resources to aid you in your job search. Be sure to follow the guidelines below to ensure a strong online presence. Last but not least, Google yourself to make sure there's nothing that makes you look bad!
+
 ## PDX Support Groups
 - [Alumni Hackerspace](https://portlandcodeguild.slack.com/archives/C010L9P9A4Q) (Slack)
 - [Job Leads](https://portlandcodeguild.slack.com/archives/C1CFFULCE) (Slack)
