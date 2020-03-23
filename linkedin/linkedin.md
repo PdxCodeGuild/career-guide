@@ -2,6 +2,8 @@
 
 - [Back to Main Page](https://github.com/PdxCodeGuild/career-guide)
 
+LinkedIn is the the go-to social media platform for connecting with and building your professional network.
+
 ## Vanity URL
 
 When creating a LinkedIn for the first time, you might notice that your profile URL is a randomized series of characters following your name. For example: _https://www.linkedin.com/in/lisa-nguyen-245b5b42_.
