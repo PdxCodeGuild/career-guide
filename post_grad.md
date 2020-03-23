@@ -3,8 +3,7 @@
 So you've graduated from PDX Code Guild, time to go out and fend off all those sweet job offers right? Believe it or not theres more you can do to make yourself valuable to potential employers. Now that you've learned to code, you can/should:
 
 1. Figure out exactly what kind of job you're looking for.
-2. Work on personal coding projects to continue honing your skills, the more experience you
-	have coding and working with different libraries and frameworks the better.
+2. Work on personal coding projects to continue honing your skills, the more experience you have coding and working with different libraries and frameworks the better.
 3. Polish that resume, prettify your portfolio.
 4. Consider freelancing, either for your job or during your job search.
 5. Attend meet-ups, network!
