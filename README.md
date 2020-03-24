@@ -42,7 +42,7 @@ Beyond organizing your Github, make sure you stay active!
 
 ## <a href="technical-prep"></a>Technical Prep
 - [Example coding interview](https://www.youtube.com/watch?v=XKu_SEDAykw) (video)
-- [Interview Script](interview-prep\interview_script.md) - How it will go and what you should say!
+- [Interview Script](interview-prep/interview_script.md) - How it will go and what you should say!
 
 ### Crash Course
 - [Visualising data structures and algorithms through animation](https://visualgo.net/en)
