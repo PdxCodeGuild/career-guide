@@ -38,7 +38,6 @@ Beyond organizing your Github, make sure you stay active!
 ## <a href="organize"></a>Staying Organize
 - [Job Tracker - Google Sheet](https://docs.google.com/spreadsheets/d/1v4NXFGfQ5p-OH_WLgXusKAoLg8kSDi90H6ylJyBlYaE/edit?usp=sharing)
 - [Trello for a To-Do List](http://trello.com/)
-- []()
 
 ## <a href="technical-prep"></a>Technical Prep
 - [Example coding interview](https://www.youtube.com/watch?v=XKu_SEDAykw) (video)
