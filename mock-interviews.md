@@ -33,7 +33,7 @@ Code:
 '''
 ```
 
-To prep for mock interviews, please read the [technical interview script](https://github.com/PdxCodeGuild/career-guide/blob/master/interview_script.md).
+To prep for mock interviews, please read the [technical interview script](https://github.com/PdxCodeGuild/career-guide/blob/master/interview-prep/interview_script.md).
 
 ## In-Person
 As of 3/15/20, in-person interviews will not be offered for the remainder of the month of March. In-person appointments in April are pending. PDX Code Guild will continue to closely monitor the current situation and will keep our alumni updated.
