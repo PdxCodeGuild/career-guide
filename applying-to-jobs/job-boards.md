@@ -27,6 +27,7 @@ Below are job boards where you can start the search for your new career! Be sure
 - [Crunchboard](https://www.crunchboard.com/)
 - [/r/cscareerquestions/](https://www.reddit.com/r/cscareerquestions/)
 - [Dice](https://www.dice.com/jobs?q=developer&location=Portland,%20OR,%20USA&latitude=45.5051064&longitude=-122.67502609999997&countryCode=US&locationPrecision=City&radius=30&radiusUnit=mi&page=1&pageSize=20&language=en)
+- [Entry Level](https://entrylevel.io/)
 - [GitHub](https://jobs.github.com/)
 - [Stack Overflow](https://stackoverflow.com/jobs)
 - [The Muse](https://www.themuse.com/search?searchType=jobs&job_location=Portland%2C%20OR&job_level=Entry%20Level&job_level=Internship)
