@@ -70,4 +70,7 @@ Mock Interviews will be offer by appointment only. For more info, please read ou
 - [Tips and Guidelines by Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit/tips-and-guidelines/videos)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
 
+## <a href="resources"></a>Resources
+- [List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)
+
 [Back to Top](#top)
