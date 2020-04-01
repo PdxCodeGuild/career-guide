@@ -21,7 +21,7 @@ Beyond organizing your Github, make sure you stay active!
   - [Part 1: Mastering Markdown](https://github.com/PdxCodeGuild/career-guide/blob/master/markdown/markdown.md)
   - [Part 2: An Impressive README.md](https://github.com/PdxCodeGuild/career-guide/blob/master/github/readmes.md)
   - [Part 3: GitHub Portfolio](github/github-portfolio.md)
-- Other Portfolios
+- Other Portfolios (in progress)
 - [Networking & Community Support](https://github.com/PdxCodeGuild/career-guide/blob/master/networking.md)
 
 ## <a href="looking"></a>Looking for Open Opportunties
