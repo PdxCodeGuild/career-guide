@@ -32,6 +32,7 @@ Beyond organizing your Github, make sure you stay active!
 - [Job Boards](applying-to-jobs/job-boards.md)
 - [Apprenticeships](applying-to-jobs/apprenticeships.md)
 - [Remote Internships & Open Source Projects](https://www.facebook.com/womeninwebdev/videos/215052119638987/?hc_location=ufi) (video)
+- [Code Triage](https://www.codetriage.com/?fbclid=IwAR3sEWU2MJLP8SY_gbanZb3Cl9hTJmswl59M4yWMju8EB2bG5c_7xXrtBK8): Triage Open Source Issues, Squash COVID-19
 
 ## <a href="applying"></a>Applying to Opportunties
 - [Analyze your chances before applying with Jobscan](applying-to-jobs/jobscan.md)
