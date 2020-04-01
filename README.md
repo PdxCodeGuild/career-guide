@@ -31,6 +31,7 @@ Beyond organizing your Github, make sure you stay active!
 ## <a href="looking"></a>Looking for Open Opportunties
 - [Job Boards](applying-to-jobs/job-boards.md)
 - [Apprenticeships](applying-to-jobs/apprenticeships.md)
+- [Remote Internships & Open Source Projects](https://www.facebook.com/womeninwebdev/videos/215052119638987/?hc_location=ufi) (video)
 
 ## <a href="applying"></a>Applying to Opportunties
 - [Analyze your chances before applying with Jobscan](applying-to-jobs/jobscan.md)
