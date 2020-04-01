@@ -37,7 +37,7 @@ Beyond organizing your Github, make sure you stay active!
 ## <a href="applying"></a>Applying to Opportunties
 - [Analyze your chances before applying with Jobscan](applying-to-jobs/jobscan.md)
 
-## <a href="organize"></a>Staying Organize
+## <a href="organize"></a>Staying Organized
 - [Job Tracker - Google Sheet](https://docs.google.com/spreadsheets/d/1v4NXFGfQ5p-OH_WLgXusKAoLg8kSDi90H6ylJyBlYaE/edit?usp=sharing)
 - [Trello for a To-Do List](http://trello.com/)
 
