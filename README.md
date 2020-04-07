@@ -65,8 +65,10 @@ Mock Interviews will be offer by appointment only. For more info, please read ou
 ## <a href="tips"></a>Coding Interview tips
 - [14 Tips for Skype Interview Success](https://www.inhersight.com/blog/interview/skype-interview-tips?utm_campaign=website&utm_source=ihs-sendgrid&utm_medium=email&_n=72258545)
 - [Average to Googler in Four Weeks: A Study Plan](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/?trk=v-feed)
-- [Tips and Guidelines by Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit/tips-and-guidelines/videos)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
+- [Tips & Tricks for the Nontraditional Engineer](https://peopleofcolorintech.com/articles/crushing-coding-interviews-tips-tricks-for-the-nontraditional-engineer/)
+- [Tips and Guidelines by Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit/tips-and-guidelines/videos)
+
 
 ## <a href="resources"></a>Resources
 - [List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)
