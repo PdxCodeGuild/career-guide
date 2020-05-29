@@ -12,9 +12,8 @@ The first step to getting a job is getting noticed. To get that first initial en
 
 | Unit | Topic |
 | ---- | -------- |
-| LinkedIn | <ul><li>[vanity URL](/linkedin/vanity_url.md)</li><li>[info header](/linkedin/info_header.md)</li><li>[about section](/linkedin/about.md)</li><li>[media](/linkedin/media.md)</li></ul>
+| LinkedIn | <ul><li>[vanity URL](/linkedin/vanity_url.md)</li><li>[info header](/linkedin/info_header.md)</li><li>[about section](/linkedin/about.md)</li><li>[media](/linkedin/media.md)</li><li>[experience](/linkedin/experience.md)</li></ul>
 
-- [LinkedIn](https://github.com/PdxCodeGuild/career-guide/blob/master/linkedin/linkedin.md)
 - <a href="resume"></a>Resume
   - [Slides from Resume 101 Workshop](https://docs.google.com/presentation/d/1gz5M2BbGGWw4dfspEc3ncsy5vNP5Mx7J_Df7_hFYPCk/edit#slide=id.p)
   - [Part 1: Resumes, an overview](resume\resume_overview.md)

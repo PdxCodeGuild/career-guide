@@ -4,15 +4,6 @@
 
 LinkedIn is the the go-to social media platform for connecting with and building your professional network. Make sure your profile is 100% complete before linking your profile on your resume or in email signatures.
 
-## Experience
-- Storytelling - Every statement: Action -> Result -> Significance (why it mattered to the org, team, or client; what did you accomplish)
-  - Quantify!
-- Emphasize soft Skills
-  - leadership
-  - taking initiative
-  - team player
-  - fast learner
-
 ## Education
 - School: PDX Code Guild
 - Field of Study: Full Stack Web Development
