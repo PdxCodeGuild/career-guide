@@ -4,10 +4,6 @@
 
 LinkedIn is the the go-to social media platform for connecting with and building your professional network. Make sure your profile is 100% complete before linking your profile on your resume or in email signatures.
 
-
-
-
-
 ## Media
 - This is a good place to attach your resume because it will show up in the **About** section. Please see screenshot above.
 - I recommend using the following format when naming your resume file: FirstnameLastname-resume_MMMYYYY.pdf
