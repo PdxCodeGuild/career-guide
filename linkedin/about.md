@@ -9,6 +9,8 @@ The about section is a chance for you to share your story. It should contain:
 - how you got into tech
 - a summary of skills
 - contact info
-- google drive link to your resume. I find that your resume is in a weird format when uploading through LinkedIn media
+- google drive link to your resume
+  - I find that your resume is in a weird format when uploading through LinkedIn media
+  - if you go to my [profile page](https://www.linkedin.com/in/thecraftycoder/), you'll see what I mean
 
   ![](../resources/linkedin/about.PNG)
