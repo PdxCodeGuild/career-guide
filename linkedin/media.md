@@ -2,4 +2,4 @@
 
 [Back to Main Page](/README.md)
 
-Attach screenshots of your projects. Link the photos to the Github repos!
+The media section is a great section for Front End Developers to show off their work. Attach screenshots of your work with a link to the code (github or codepen)

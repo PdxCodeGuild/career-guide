@@ -4,17 +4,6 @@
 
 LinkedIn is the the go-to social media platform for connecting with and building your professional network. Make sure your profile is 100% complete before linking your profile on your resume or in email signatures.
 
-## Media
-- This is a good place to attach your resume because it will show up in the **About** section. Please see screenshot above.
-- I recommend using the following format when naming your resume file: FirstnameLastname-resume_MMMYYYY.pdf
-- If you'd like to kick it up a notch: FirstnameLastname-PositionResume_MMMYYYY.pdf (ex: LisaNguyen-FullStackDevResume_Jul2019.pdf)
-- Recruiters see hundreds of resumes a week. Make yours easy to find!
-- Attach Portfolio items in your Summary and Experience Sections.
-
-
-### Front End Developers
-- screenshots of your work with a link to the code (github or codepen)
-
 ## Experience
 - Storytelling - Every statement: Action -> Result -> Significance (why it mattered to the org, team, or client; what did you accomplish)
   - Quantify!
