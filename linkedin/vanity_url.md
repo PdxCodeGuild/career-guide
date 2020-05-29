@@ -1,6 +1,12 @@
-# Vanity URL Instructions
-- [Back to LinkedIn Article](https://github.com/PdxCodeGuild/career-guide/blob/master/linkedin/linkedin.md)
-- [Back to Main Page](https://github.com/PdxCodeGuild/career-guide)
+# Vanity URL
+
+[Back to Main Page](./README.md)
+
+When creating a LinkedIn for the first time, you might notice that your profile URL is a randomized series of characters following your name. For example: _https://www.linkedin.com/in/lisa-nguyen-245b5b42_.
+
+This is way to long to include on a resume. A shortened version of this would work better. Some people will change their vanity URL to something resembling their name (i.e. lnguyen or lisan). I wanted to stand out and start a brand so I chose **thecraftycoder** as my online persona. I'm sure you'll agree, **thecraftycoder** looks way better on a resume than **lisa-nguyen-245b5b42**.
+
+## Instructions
 
 1. Click on your profile icon and select **View profile**.
 

@@ -8,11 +8,7 @@ Below are resources to aid you in your job search. Be sure to follow the guideli
 
 ## <a href="getting-noticed"></a>Getting Noticed
 
-The first step to getting a job is getting noticed. To get that first initial encounter with recruiters, please read the following tutorials:
-
-| Unit | Topic |
-| ---- | -------- |
-| LinkedIn | <ul><li>[vanity URL](/linkedin/vanity_url.md)</li><li>info header</li></ul>
+The first step to getting a job is getting noticed. To get that first initial encounter with recruiters, we recommend the following articles:
 
 - [LinkedIn](https://github.com/PdxCodeGuild/career-guide/blob/master/linkedin/linkedin.md)
 - <a href="resume"></a>Resume
