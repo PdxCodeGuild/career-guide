@@ -1,5 +1,7 @@
 # Info Header
 
+[Back to Main Page](/README.md)
+
 Your info head will be the first thing people see so you want to make a good first impression.
 
 - a professional headshot
