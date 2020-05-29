@@ -6,13 +6,7 @@ LinkedIn is the the go-to social media platform for connecting with and building
 
 
 
-## About
-- an invigorating summary
-  - if you are willing to move, I would add that note here
-- summary of skills
-- contact info
 
-  ![](../resources/linkedin/about.PNG)
 
 ## Media
 - This is a good place to attach your resume because it will show up in the **About** section. Please see screenshot above.
