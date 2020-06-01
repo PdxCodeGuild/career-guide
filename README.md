@@ -34,11 +34,18 @@ The first step to getting a job is getting noticed. To get that first initial en
 | Full Stack Portfolios| [CodeSandBox](https://codesandbox.io/)|
 | Networking & Community Support | <ul><li>[Portland Tech Groups, Volunteering, & Return to Work]()</li><li>[Veteran Support]()</li><li>[Diversity in Tech]()</li></ul> |
 
+## Gaining Experience
+| Type | Note |
+| ---- | -------- |
+| Open Source Projects | <ul><li>[How to get started with Open Source](https://www.hackerearth.com/getstarted-opensource/)</li><li>[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners#python)</li><li>[36 Amazing Python Open Source Projects](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450) </li><li>[Code Triage](https://www.codetriage.com/?fbclid=IwAR3sEWU2MJLP8SY_gbanZb3Cl9hTJmswl59M4yWMju8EB2bG5c_7xXrtBK8): Open Source Issues fighting COVID-19</li></ul> |
+
 ## <a href="looking"></a>Looking for Open Opportunties
-- [Job Boards](applying-to-jobs/job-boards.md)
-- [Apprenticeships](applying-to-jobs/apprenticeships.md)
-- [Remote Internships & Open Source Projects](https://www.facebook.com/womeninwebdev/videos/215052119638987/?hc_location=ufi) (video)
-- [Code Triage](https://www.codetriage.com/?fbclid=IwAR3sEWU2MJLP8SY_gbanZb3Cl9hTJmswl59M4yWMju8EB2bG5c_7xXrtBK8): Triage Open Source Issues, Squash COVID-19
+
+| Type | Note |
+| ---- | -------- |
+| [Job Boards](applying-to-jobs/job-boards.md) | traditional, tech specific, and specific groups|
+| [Apprenticeships](applying-to-jobs/apprenticeships.md) | growing list of apprenticeships that accept applicants from non-technical backgrounds
+| [Remote Internships & Open Source Projects](https://www.facebook.com/womeninwebdev/videos/215052119638987/?hc_location=ufi) | video
 
 ## <a href="applying"></a>Applying to Opportunties
 - [Analyze your chances before applying with Jobscan](applying-to-jobs/jobscan.md)
