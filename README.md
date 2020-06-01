@@ -6,7 +6,7 @@
 
 ## Contents
 - PDX Code Guild Support Groups
-- [Getting Noticed](#getting-noticed)]
+- [Getting Noticed](#getting-noticed)
 - Looking for Open Opportunities
 - Applying to Jobs
 - Staying Organized
