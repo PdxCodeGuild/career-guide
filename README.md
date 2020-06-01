@@ -1,8 +1,8 @@
-# <a href="top"></a>Career Prep Guide
+# Career Prep Guide
 
 [Back to Main Page](/README.md)
 
-Below are resources to aid you in your job search. Be sure to follow the guidelines below to ensure a strong online presence. Before you start, Google yourself to make sure there's nothing that you aren't proud of!
+<a href="top"></a>Below are resources to aid you in your job search. Be sure to follow the guidelines below to ensure a strong online presence. Before you start, Google yourself to make sure there's nothing that you aren't proud of!
 
 ## Contents
 - PDX Code Guild Support Groups
