@@ -8,6 +8,8 @@ Below are resources to aid you in your job search. Be sure to follow the guideli
 
 ## <a href="getting-noticed"></a>Getting Noticed
 
+**Note: This section is currently being reorganized.**
+
 The first step to getting a job is getting noticed. To get that first initial encounter with recruiters, please read the following tutorials:
 
 | Unit | Topic |
