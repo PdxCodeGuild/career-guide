@@ -16,8 +16,8 @@
 
 ## <a href="support"></a>PDX Code Guild Support Groups
 Be sure to join the following Slack groups:
-- [Alumni Hackerspace](https://portlandcodeguild.slack.com/archives/C010L9P9A4Q) (Slack)
-- [Job Leads](https://portlandcodeguild.slack.com/archives/C1CFFULCE) (Slack)
+- [Alumni Hackerspace](https://portlandcodeguild.slack.com/archives/C010L9P9A4Q)
+- [Job Leads](https://portlandcodeguild.slack.com/archives/C1CFFULCE)
 
 ## <a href="getting-noticed"></a>Getting Noticed
 
