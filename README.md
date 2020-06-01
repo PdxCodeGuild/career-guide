@@ -12,6 +12,7 @@ The first step to getting a job is getting noticed. To get that first initial en
 
 | Unit | Topic |
 | ---- | -------- |
+| Resume | <ul><li>[The Purpose of a Resume](/purpose.md)</li><li>[](/)</li><li>[](/)</li><li>[](/)</li><li>[](/)</li></ul>
 | LinkedIn | <ul><li>[vanity URL](/linkedin/vanity_url.md)</li><li>[info header](/linkedin/info_header.md)</li><li>[about section](/linkedin/about.md)</li><li>[media](/linkedin/media.md)</li><li>[experience](/linkedin/experience.md)</li></ul>
 
 - <a href="resume"></a>Resume
