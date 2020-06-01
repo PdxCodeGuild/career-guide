@@ -19,19 +19,11 @@ The first step to getting a job is getting noticed. To get that first initial en
 | Resume | <ul><li>[The Purpose of a Resume](/purpose.md)</li><li>[Resume Sections](/sections.md)</li><li>[Writing Content for Your Resume](/content.md)</li></ul>
 | Resume Resources| <ul><li>[Resume Template from PDX Code Guild](https://docs.google.com/document/d/1XQm8zTHvvz-_ldEifbvAUPXgGbZYwbAUnTuSyIvaCgQ/edit)</li><li>[139 action verbs](https://www.indeed.com/career-advice/resumes-cover-letters/action-verbs-to-make-your-resume-stand-out?from=careeradvice-US)</li><li>[Creddle - Resume Builder](http://creddle.io/)</li><li>[Hiration - Tech Resume Builder](https://www.hiration.com/)</li><li>[Canva - Graphic Design Platform](https://www.canva.com/)</li></ul>
 | LinkedIn | <ul><li>[vanity URL](/linkedin/vanity_url.md)</li><li>[info header](/linkedin/info_header.md)</li><li>[about section](/linkedin/about.md)</li><li>[media](/linkedin/media.md)</li><li>[experience](/linkedin/experience.md)</li></ul>
-
-- <a href="resume"></a>Resume
-
-  - [Part 1: Resumes, an overview](resume\resume_overview.md)
-  - [Part 2: Gathering Content](resume\resume.md)
-
-- GitHub
-Beyond organizing your Github, make sure you stay active!
-  - [Part 1: Mastering Markdown](https://github.com/PdxCodeGuild/career-guide/blob/master/markdown/markdown.md)
-  - [Part 2: An Impressive README.md](https://github.com/PdxCodeGuild/career-guide/blob/master/github/readmes.md)
-  - [Part 3: GitHub Portfolio](github/github-portfolio.md)
-- Other Portfolios (in progress)
-- [Networking & Community Support](https://github.com/PdxCodeGuild/career-guide/blob/master/networking.md)
+| Github | <ul><li>[Mastering Markdown](https://github.com/PdxCodeGuild/career-guide/blob/master/markdown/markdown.md)</li><li>[An Impressive README.md](https://github.com/PdxCodeGuild/career-guide/blob/master/github/readmes.md)</li><li>[Your GitHub Portfolio](github/github-portfolio.md)</li></ul>
+| Front End Portfolios| <ul><li>[Codepen.io](http://codepen.io/)</li><li>[JSFiddle](https://jsfiddle.net/)</li></ul>|
+| Back End Portfolios| [repl.it](http://repl.it/) |
+| Full Stack Portfolios| [CodeSandBox](https://codesandbox.io/)|
+| Networking & Community Support | <ul><li>[Portland Tech Groups, Volunteering, & Return to Work]()</li><li>[Veteran Support]()</li><li>[Diversity in Tech]()</li></ul> |
 
 ## <a href="looking"></a>Looking for Open Opportunties
 - [Job Boards](applying-to-jobs/job-boards.md)
