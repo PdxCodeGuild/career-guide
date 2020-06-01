@@ -8,6 +8,7 @@
 
 - [PDX Code Guild Support Groups](#support)
 - [Getting Noticed](#getting-noticed)
+- [Gaining Experience](#experience)
 - [Looking for Open Opportunities](#looking)
 - [Applying to Jobs](#applying)
 - [Staying Organized](#organize)
@@ -18,6 +19,8 @@
 Be sure to join the following Slack groups:
 - [Alumni Hackerspace](https://portlandcodeguild.slack.com/archives/C010L9P9A4Q)
 - [Job Leads](https://portlandcodeguild.slack.com/archives/C1CFFULCE)
+
+[Back to Top](#top)
 
 ## <a href="getting-noticed"></a>Getting Noticed
 
@@ -34,10 +37,14 @@ The first step to getting a job is getting noticed. To get that first initial en
 | Full Stack Portfolios| [CodeSandBox](https://codesandbox.io/)|
 | Networking & Community Support | <ul><li>[Portland Tech Groups, Volunteering, & Return to Work]()</li><li>[Veteran Support]()</li><li>[Diversity in Tech]()</li></ul> |
 
-## Gaining Experience
+[Back to Top](#top)
+
+## <a href="experience"></a>Gaining Experience
 | Type | Note |
 | ---- | -------- |
 | Open Source Projects | <ul><li>[How to get started with Open Source](https://www.hackerearth.com/getstarted-opensource/)</li><li>[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners#python)</li><li>[36 Amazing Python Open Source Projects](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450) </li><li>[Code Triage](https://www.codetriage.com/?fbclid=IwAR3sEWU2MJLP8SY_gbanZb3Cl9hTJmswl59M4yWMju8EB2bG5c_7xXrtBK8): Open Source Issues fighting COVID-19</li></ul> |
+
+[Back to Top](#top)
 
 ## <a href="looking"></a>Looking for Open Opportunties
 
@@ -47,12 +54,18 @@ The first step to getting a job is getting noticed. To get that first initial en
 | [Apprenticeships](applying-to-jobs/apprenticeships.md) | growing list of apprenticeships that accept applicants from non-technical backgrounds
 | [Remote Internships & Open Source Projects](https://www.facebook.com/womeninwebdev/videos/215052119638987/?hc_location=ufi) | video
 
+[Back to Top](#top)
+
 ## <a href="applying"></a>Applying to Opportunties
 - [Analyze your chances before applying with Jobscan](applying-to-jobs/jobscan.md)
+
+[Back to Top](#top)
 
 ## <a href="organize"></a>Staying Organized
 - [Job Tracker - Google Sheet](https://docs.google.com/spreadsheets/d/1v4NXFGfQ5p-OH_WLgXusKAoLg8kSDi90H6ylJyBlYaE/edit?usp=sharing)
 - [Trello for a To-Do List](http://trello.com/)
+
+[Back to Top](#top)
 
 ## <a href="technical-prep"></a>Technical Prep
 - [Example coding interview](https://www.youtube.com/watch?v=XKu_SEDAykw) (video)
@@ -86,6 +99,7 @@ Mock Interviews will be offer by appointment only. For more info, please read ou
 - [Tips & Tricks for the Nontraditional Engineer](https://peopleofcolorintech.com/articles/crushing-coding-interviews-tips-tricks-for-the-nontraditional-engineer/)
 - [Tips and Guidelines by Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit/tips-and-guidelines/videos)
 
+[Back to Top](#top)
 
 ## <a href="resources"></a>Resources
 - [List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)
