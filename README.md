@@ -5,14 +5,16 @@
 <a href="top"></a>Below are resources to aid you in your job search. Be sure to follow the guidelines below to ensure a strong online presence. Before you start, Google yourself to make sure there's nothing that you aren't proud of!
 
 ## Contents
-- PDX Code Guild Support Groups
-- [Getting Noticed](#getting-noticed)
-- Looking for Open Opportunities
-- Applying to Jobs
-- Staying Organized
-- Technical Prep
 
-## PDX Code Guild Support Groups
+- [PDX Code Guild Support Groups](#support)
+- [Getting Noticed](#getting-noticed)
+- [Looking for Open Opportunities](#looking)
+- [Applying to Jobs](#applying)
+- [Staying Organized](#organize)
+- [Technical Prep](#technical-prep)
+- [Free Learning Resources](#resources)
+
+## <a href="support"></a>PDX Code Guild Support Groups
 Be sure to join the following Slack groups:
 - [Alumni Hackerspace](https://portlandcodeguild.slack.com/archives/C010L9P9A4Q) (Slack)
 - [Job Leads](https://portlandcodeguild.slack.com/archives/C1CFFULCE) (Slack)
