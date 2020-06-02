@@ -89,8 +89,12 @@ Recommendations from Google Engineers:
 - [Top 10 Algos in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 - [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 
+[Back to Top](#top)
+
 ## Mock Interviews
 Mock Interviews will be offer by appointment only. For more info, please read our [Mock Interview documentation](mock-interviews.md).
+
+[Back to Top](#top)
 
 ## <a href="tips"></a>Coding Interview tips
 - [14 Tips for Skype Interview Success](https://www.inhersight.com/blog/interview/skype-interview-tips?utm_campaign=website&utm_source=ihs-sendgrid&utm_medium=email&_n=72258545)
