@@ -1,7 +1,5 @@
 # Career Prep Guide
 
-[Back to Main Page](/README.md)
-
 <a href="top"></a>Below are resources to aid you in your job search. Be sure to follow the guidelines below to ensure a strong online presence. Before you start, Google yourself to make sure there's nothing that you aren't proud of!
 
 ## Contents
@@ -28,7 +26,7 @@ The first step to getting a job is getting noticed. To get that first initial en
 
 | Unit | Topic |
 | ---- | -------- |
-| Resume | <ul><li>[The Purpose of a Resume](/resume/purpose.md)</li><li>[Resume Sections](/resume/sections.md)</li><li>[Writing Content for Your Resume](/content.md)</li></ul>
+| Resume | <ul><li>[The Purpose of a Resume](/resume/purpose.md)</li><li>[Resume Sections](/resume/sections.md)</li><li>[Writing Content for Your Resume](/resume/content.md)</li></ul>
 | Resume Resources| <ul><li>[Resume Template from PDX Code Guild](https://docs.google.com/document/d/1XQm8zTHvvz-_ldEifbvAUPXgGbZYwbAUnTuSyIvaCgQ/edit)</li><li>[139 action verbs](https://www.indeed.com/career-advice/resumes-cover-letters/action-verbs-to-make-your-resume-stand-out?from=careeradvice-US)</li><li>[Creddle - Resume Builder](http://creddle.io/)</li><li>[Hiration - Tech Resume Builder](https://www.hiration.com/)</li><li>[Canva - Graphic Design Platform](https://www.canva.com/)</li></ul>
 | LinkedIn | <ul><li>[vanity URL](/linkedin/vanity_url.md)</li><li>[info header](/linkedin/info_header.md)</li><li>[about section](/linkedin/about.md)</li><li>[media](/linkedin/media.md)</li><li>[experience](/linkedin/experience.md)</li></ul>
 | Github | <ul><li>[Mastering Markdown](https://github.com/PdxCodeGuild/career-guide/blob/master/markdown/markdown.md)</li><li>[An Impressive README.md](https://github.com/PdxCodeGuild/career-guide/blob/master/github/readmes.md)</li><li>[Your GitHub Portfolio](github/github-portfolio.md)</li></ul>
