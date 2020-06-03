@@ -15,7 +15,7 @@ Use if you want to insert more keywords into your resume that isn’t displayed 
 ## Skills
 - Technical skills can include and be organized like the following:
   - Programming Languages: JavaScript, Python
-  - Web Development: jQuery, REST APIs, AJAX, HTML5, CSS3, D3.js
+  - Web Development: jQuery, REST APIs, AJAX, HTML5, CSS3, Vue.js
   - Frameworks: Flask, Django REST, Express
   - Databases & Tools: git, Github, postgreSQL, SQLite3, Mongo, Heroku
   - Behavior & Test Driven Development: Jasmine
