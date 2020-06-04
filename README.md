@@ -3,14 +3,17 @@
 <a href="top"></a>Below are resources to aid you in your job search. Be sure to follow the guidelines below to ensure a strong online presence. Before you start, Google yourself to make sure there's nothing that you aren't proud of!
 
 ## Contents
-
+### Part 1
 - [PDX Code Guild Support Groups](#support)
 - [Getting Noticed](#getting-noticed)
 - [Gaining Experience](#experience)
 - [Looking for Open Opportunities](#looking)
 - [Applying to Jobs](#applying)
 - [Staying Organized](#organize)
+
+### Part 2
 - [Technical Prep](#technical-prep)
+- [Coding Interview tips](#tips)
 - [Free Learning Resources](#resources)
 
 ## <a href="support"></a>PDX Code Guild Support Groups
