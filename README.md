@@ -2,7 +2,7 @@
 
 Below are resources to aid you in your job search. Be sure to follow the guidelines below to ensure a strong online presence. Before you start, Google yourself to make sure there's nothing that you aren't proud of!
 
-## <a href="top"></a>Contents
+## <a name="top"></a>Contents
 ### Part 1
 - [PDX Code Guild Support Groups](#support)
 - [Getting Noticed](#getting-noticed)
@@ -16,14 +16,14 @@ Below are resources to aid you in your job search. Be sure to follow the guideli
 - [Coding Interview tips](#tips)
 - [Free Learning Resources](#resources)
 
-## <a href="support"></a>PDX Code Guild Support Groups
+## <a name="support"></a>PDX Code Guild Support Groups
 Be sure to join the following Slack groups:
 - [Alumni Hackerspace](https://portlandcodeguild.slack.com/archives/C010L9P9A4Q)
 - [Job Leads](https://portlandcodeguild.slack.com/archives/C1CFFULCE)
 
 [Back to Top](#top)
 
-## <a href="getting-noticed"></a>Getting Noticed
+## <a name="getting-noticed"></a>Getting Noticed
 
 The first step to getting a job is getting noticed. To get that first initial encounter with recruiters, please read the following tutorials:
 
