@@ -56,7 +56,7 @@ The first step to getting a job is getting noticed. To get that first initial en
 
 ## <a href="applying"></a>Applying to Opportunties
 
-### "75 percent of job applications are rejected before they are seen by human eyes." - [Forbes](https://www.forbes.com/sites/nextavenue/2014/03/18/how-to-get-your-resume-read-by-an-employer/#7f7506136865)
+> "75 percent of job applications are rejected before they are seen by human eyes." - [Forbes](https://www.forbes.com/sites/nextavenue/2014/03/18/how-to-get-your-resume-read-by-an-employer/#7f7506136865)
 
 Before applying to jobs, you should make sure your resume is a good match for the job description. Otherwise, your application will never make it pass the Applicant Tracking System (ATS). Use [Jobscan](applying-to-jobs/jobscan.md) to analyze your chances before applying. Jobscan will give you feedback as to what keywords your resume is missing.
 
