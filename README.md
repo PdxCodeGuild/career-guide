@@ -63,8 +63,26 @@ Before applying to jobs, you should make sure your resume is a good match for th
 [Back to Top](#top)
 
 ## <a href="organize"></a>Staying Organized
-- [Job Tracker - Google Sheet](https://docs.google.com/spreadsheets/d/1v4NXFGfQ5p-OH_WLgXusKAoLg8kSDi90H6ylJyBlYaE/edit?usp=sharing)
-- [Trello for a To-Do List](http://trello.com/)
+Applying to jobs and keeping track of everything can be extremely overwhelming. Use the following resources to keep track of things like:
+
+- applied to job
+- referral?
+- location of job
+- tech stack
+- remote flexibility
+- initial phone screen date
+- thank you note
+- follow up
+- technical phone screen date
+- thank you note
+- follow up
+- onsite interview date
+- follow up
+- offer amount
+- benefits
+- negotiation
+
+Keep track of all of the above with tools like Google Sheets ([job tracker example](https://docs.google.com/spreadsheets/d/1v4NXFGfQ5p-OH_WLgXusKAoLg8kSDi90H6ylJyBlYaE/edit?usp=sharing)) and [Trello](http://trello.com/)!
 
 [Back to Top](#top)
 
