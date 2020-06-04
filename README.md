@@ -60,6 +60,13 @@ The first step to getting a job is getting noticed. To get that first initial en
 
 Before applying to jobs, you should make sure your resume is a good match for the job description. Otherwise, your application will never make it pass the Applicant Tracking System (ATS). Use [Jobscan](applying-to-jobs/jobscan.md) to analyze your chances before applying. Jobscan will give you feedback as to what keywords your resume is missing.
 
+| Resource | Note |
+| ---- | -------- |
+| [Jobscan](applying-to-jobs/jobscan.md) | The smart way to beat resume filters
+| [Forbes](https://www.forbes.com/sites/nextavenue/2014/03/18/how-to-get-your-resume-read-by-an-employer/#7f7506136865) | How To Get Your Resume Read By An Employer
+| [TopResume.com](https://www.topresume.com/career-advice/what-is-an-ats-resume) | What Is an ATS? How to Write a Resume to Beat the Bots
+| [The Muse](https://www.themuse.com/advice/beat-the-robots-how-to-get-your-resume-past-the-system-into-human-hands) | Beat the Robots: How to Get Your Resume Past the System & Into Human Hands
+
 [Back to Top](#top)
 
 ## <a href="organize"></a>Staying Organized
