@@ -93,6 +93,8 @@ Keep track of all of the above with tools like Google Sheets ([job tracker examp
 
 [Back to Top](#top)
 
+***
+
 ## <a href="technical-prep"></a>Technical Prep
 - [Example coding interview](https://www.youtube.com/watch?v=XKu_SEDAykw) (video)
 - [Interview Script](interview-prep/interview_script.md) - How it will go and what you should say!
