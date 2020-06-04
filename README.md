@@ -34,7 +34,7 @@ The first step to getting a job is getting noticed. To get that first initial en
 | LinkedIn | <ul><li>[vanity URL](/linkedin/vanity_url.md)</li><li>[info header](/linkedin/info_header.md)</li><li>[about section](/linkedin/about.md)</li><li>[media](/linkedin/media.md)</li><li>[experience](/linkedin/experience.md)</li></ul>
 | Github | <ul><li>[Mastering Markdown](https://github.com/PdxCodeGuild/career-guide/blob/master/markdown/markdown.md)</li><li>[An Impressive README.md](https://github.com/PdxCodeGuild/career-guide/blob/master/github/readmes.md)</li><li>[Your GitHub Portfolio](github/github-portfolio.md)</li></ul>
 | Front End Portfolios| <ul><li>[Codepen.io](http://codepen.io/)</li><li>[JSFiddle](https://jsfiddle.net/)</li></ul>|
-| Back End Portfolios| [repl.it](http://repl.it/) |
+| Back End Portfolios| <ul><li>[repl.it](http://repl.it/)</li><li>Github (please see section above)</li></ul> |
 | Full Stack Portfolios| [CodeSandBox](https://codesandbox.io/)|
 | Networking & Community Support | <ul><li>[Portland Tech Groups, Volunteering, & Return to Work]()</li><li>[Veteran Support]()</li><li>[Diversity in Tech]()</li></ul> |
 
