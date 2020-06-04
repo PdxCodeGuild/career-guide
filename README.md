@@ -1,8 +1,8 @@
 # Career Prep Guide
 
-<a href="top"></a>Below are resources to aid you in your job search. Be sure to follow the guidelines below to ensure a strong online presence. Before you start, Google yourself to make sure there's nothing that you aren't proud of!
+Below are resources to aid you in your job search. Be sure to follow the guidelines below to ensure a strong online presence. Before you start, Google yourself to make sure there's nothing that you aren't proud of!
 
-## Contents
+## <a href="top"></a>Contents
 ### Part 1
 - [PDX Code Guild Support Groups](#support)
 - [Getting Noticed](#getting-noticed)
@@ -99,6 +99,7 @@ Keep track of all of the above with tools like Google Sheets ([job tracker examp
 ***
 
 ## <a href="technical-prep"></a>Technical Prep
+
 - [Example coding interview](https://www.youtube.com/watch?v=XKu_SEDAykw) (video)
 - [Interview Script](interview-prep/interview_script.md) - How it will go and what you should say!
 
