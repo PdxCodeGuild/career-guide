@@ -40,14 +40,14 @@ The first step to getting a job is getting noticed. To get that first initial en
 
 [Back to Top](#top)
 
-## <a href="experience"></a>Gaining Experience
+## <a name="experience"></a>Gaining Experience
 | Type | Note |
 | ---- | -------- |
 | Open Source Projects | <ul><li>[How to get started with Open Source](https://www.hackerearth.com/getstarted-opensource/)</li><li>[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners#python)</li><li>[36 Amazing Python Open Source Projects](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450) </li><li>[Code Triage](https://www.codetriage.com/?fbclid=IwAR3sEWU2MJLP8SY_gbanZb3Cl9hTJmswl59M4yWMju8EB2bG5c_7xXrtBK8): Open Source Issues fighting COVID-19</li></ul> |
 
 [Back to Top](#top)
 
-## <a href="looking"></a>Looking for Open Opportunties
+## <a name="looking"></a>Looking for Open Opportunties
 
 | Type | Note |
 | ---- | -------- |
@@ -57,7 +57,7 @@ The first step to getting a job is getting noticed. To get that first initial en
 
 [Back to Top](#top)
 
-## <a href="applying"></a>Applying to Opportunties
+## <a name="applying"></a>Applying to Opportunties
 
 > "75 percent of job applications are rejected before they are seen by human eyes." - [Forbes](https://www.forbes.com/sites/nextavenue/2014/03/18/how-to-get-your-resume-read-by-an-employer/#7f7506136865)
 
@@ -72,7 +72,7 @@ Before applying to jobs, you should make sure your resume is a good match for th
 
 [Back to Top](#top)
 
-## <a href="organize"></a>Staying Organized
+## <a name="organize"></a>Staying Organized
 Applying to jobs and keeping track of everything can be extremely overwhelming. Use the following resources to keep track of things like:
 
 - applied to job
@@ -98,7 +98,7 @@ Keep track of all of the above with tools like Google Sheets ([job tracker examp
 
 ***
 
-## <a href="technical-prep"></a>Technical Prep
+## <a name="technical-prep"></a>Technical Prep
 
 - [Example coding interview](https://www.youtube.com/watch?v=XKu_SEDAykw) (video)
 - [Interview Script](interview-prep/interview_script.md) - How it will go and what you should say!
@@ -128,7 +128,7 @@ Mock Interviews will be offer by appointment only. For more info, please read ou
 
 [Back to Top](#top)
 
-## <a href="tips"></a>Coding Interview tips
+## <a name="tips"></a>Coding Interview tips
 - [14 Tips for Skype Interview Success](https://www.inhersight.com/blog/interview/skype-interview-tips?utm_campaign=website&utm_source=ihs-sendgrid&utm_medium=email&_n=72258545)
 - [Average to Googler in Four Weeks: A Study Plan](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/?trk=v-feed)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
@@ -137,7 +137,7 @@ Mock Interviews will be offer by appointment only. For more info, please read ou
 
 [Back to Top](#top)
 
-## <a href="resources"></a>Resources
+## <a name="resources"></a>Resources
 - [List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)
 
 [Back to Top](#top)
