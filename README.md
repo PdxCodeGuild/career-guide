@@ -2,6 +2,8 @@
 
 Below are resources to aid you in your job search. Be sure to follow the guidelines below to ensure a strong online presence. Before you start, Google yourself to make sure there's nothing that you aren't proud of!
 
+For those who are graduating from the Advanced JS, Node, React class, please view this [doc](/advanced/README.md) here.
+
 ## <a name="top"></a>Contents
 ### Part 1
 - [PDX Code Guild Support Groups](#support)
