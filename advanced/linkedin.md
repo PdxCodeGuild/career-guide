@@ -1,4 +1,5 @@
 # Updating LinkedIn
+[Back to Advanced JS Curriculum](README.md)
 
 The goal of updating your resume is so that you'll show up in recruiter searches. Read the sections below for tips on how to do so.
 
