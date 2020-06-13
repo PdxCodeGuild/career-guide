@@ -14,6 +14,7 @@ Below are resources to aid you in your job search. Be sure to follow the guideli
 ### Part 2
 - [Technical Prep](#technical-prep)
 - [Coding Interview tips](#tips)
+- [Mock Interviews](#mock)
 - [Free Learning Resources](#resources)
 
 ## <a name="support"></a>PDX Code Guild Support Groups
@@ -92,7 +93,7 @@ Applying to jobs and keeping track of everything can be extremely overwhelming. 
 - benefits
 - negotiation
 
-Keep track of all of the above with tools like Google Sheets ([job tracker example](https://docs.google.com/spreadsheets/d/1v4NXFGfQ5p-OH_WLgXusKAoLg8kSDi90H6ylJyBlYaE/edit?usp=sharing)) and [Trello](http://trello.com/)!
+Keep track of all of the above with tools like Google Sheets ([example](https://docs.google.com/spreadsheets/d/1v4NXFGfQ5p-OH_WLgXusKAoLg8kSDi90H6ylJyBlYaE/edit?usp=sharing)) and [Trello](http://trello.com/)!
 
 [Back to Top](#top)
 
@@ -123,17 +124,17 @@ Recommendations from Google Engineers:
 
 [Back to Top](#top)
 
-## Mock Interviews
-Mock Interviews will be offer by appointment only. For more info, please read our [Mock Interview documentation](mock-interviews.md).
-
-[Back to Top](#top)
-
 ## <a name="tips"></a>Coding Interview tips
 - [14 Tips for Skype Interview Success](https://www.inhersight.com/blog/interview/skype-interview-tips?utm_campaign=website&utm_source=ihs-sendgrid&utm_medium=email&_n=72258545)
 - [Average to Googler in Four Weeks: A Study Plan](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/?trk=v-feed)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
 - [Tips & Tricks for the Nontraditional Engineer](https://peopleofcolorintech.com/articles/crushing-coding-interviews-tips-tricks-for-the-nontraditional-engineer/)
 - [Tips and Guidelines by Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit/tips-and-guidelines/videos)
+
+[Back to Top](#top)
+
+## <a name="mock"></a>Mock Interviews
+Mock Interviews will be offer by appointment only. For more info, please read our [Mock Interview documentation](mock-interviews.md).
 
 [Back to Top](#top)
 
