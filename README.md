@@ -46,7 +46,7 @@ The first step to getting a job is getting noticed. To get that first initial en
 ## <a name="experience"></a>Gaining Experience
 | Type | Note |
 | ---- | -------- |
-| Open Source Projects | <ul><li>[How to get started with Open Source](https://www.hackerearth.com/getstarted-opensource/)</li><li>[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners#python)</li><li>[36 Amazing Python Open Source Projects](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450) </li><li>[Code Triage](https://www.codetriage.com/?fbclid=IwAR3sEWU2MJLP8SY_gbanZb3Cl9hTJmswl59M4yWMju8EB2bG5c_7xXrtBK8): Open Source Issues fighting COVID-19</li></ul> |
+| Open Source Projects | <ul><li>[How to get started with Open Source](https://www.hackerearth.com/getstarted-opensource/)</li><li>[Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners#python)</li><li>[36 Amazing Python Open Source Projects](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450) </li><li>[Code Triage](https://www.codetriage.com/?fbclid=IwAR3sEWU2MJLP8SY_gbanZb3Cl9hTJmswl59M4yWMju8EB2bG5c_7xXrtBK8): Open Source Issues fighting COVID-19</li><li>[Machine Learning](https://medium.mybridge.co/amazing-machine-learning-open-source-tools-projects-of-the-year-v-2019-95d772e4e985)</li></ul> |
 
 [Back to Top](#top)
 
