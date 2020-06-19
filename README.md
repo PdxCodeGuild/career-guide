@@ -108,8 +108,8 @@ Keep track of all of the above with tools like Google Sheets ([example](https://
 - [Tips & Tricks for the Nontraditional Engineer](https://peopleofcolorintech.com/articles/crushing-coding-interviews-tips-tricks-for-the-nontraditional-engineer/)
 - [Tips and Guidelines by Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit/tips-and-guidelines/videos)
 - [Acing the Non-Technical Interview](https://www.youtube.com/watch?v=hzMfEzAE7ys&list=PLVcEZG2JPVhcqhyjIthVDmyKyyATGAMPC&index=3&t=0s)
-- []()
-- []()
+- [Impressing Technical Interviewers: Mid to Senior Candidates](https://youtu.be/qnqtGOc2_FU)
+- [Craft Your Engineering Career Story](https://youtu.be/r_wePa82J14)
 
 [Back to Top](#top)
 
@@ -117,6 +117,8 @@ Keep track of all of the above with tools like Google Sheets ([example](https://
 
 - [Example coding interview](https://www.youtube.com/watch?v=XKu_SEDAykw) (video)
 - [Interview Script](interview-prep/interview_script.md) - How it will go and what you should say!
+- [Time Complexity & Data Structures: Cracking Coding Interview](https://youtu.be/b1TaO3EM7kY) (video)
+- [Acing the Coding Interview by Thinking in Patterns](https://youtu.be/U3RtWqodZ8U) (video)
 
 ### Crash Course
 - [Visualising data structures and algorithms through animation](https://visualgo.net/en)
