@@ -14,8 +14,8 @@ For those who are graduating from the Advanced JS, Node, React class, please vie
 - [Staying Organized](#organize)
 
 ### Part 2
-- [Technical Prep](#technical-prep)
 - [Coding Interview tips](#tips)
+- [Technical Prep](#technical-prep)
 - [Mock Interviews](#mock)
 - [Free Learning Resources](#resources)
 
@@ -101,6 +101,18 @@ Keep track of all of the above with tools like Google Sheets ([example](https://
 
 ***
 
+## <a name="tips"></a>Coding Interview tips
+- [14 Tips for Skype Interview Success](https://www.inhersight.com/blog/interview/skype-interview-tips?utm_campaign=website&utm_source=ihs-sendgrid&utm_medium=email&_n=72258545)
+- [Average to Googler in Four Weeks: A Study Plan](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/?trk=v-feed)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/)
+- [Tips & Tricks for the Nontraditional Engineer](https://peopleofcolorintech.com/articles/crushing-coding-interviews-tips-tricks-for-the-nontraditional-engineer/)
+- [Tips and Guidelines by Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit/tips-and-guidelines/videos)
+- [Acing the Non-Technical Interview](https://www.youtube.com/watch?v=hzMfEzAE7ys&list=PLVcEZG2JPVhcqhyjIthVDmyKyyATGAMPC&index=3&t=0s)
+- []()
+- []()
+
+[Back to Top](#top)
+
 ## <a name="technical-prep"></a>Technical Prep
 
 - [Example coding interview](https://www.youtube.com/watch?v=XKu_SEDAykw) (video)
@@ -123,15 +135,6 @@ Recommendations from Google Engineers:
 - [500 Data Structures and Algorithms](https://www.quora.com/q/kqxqbzywcunzbyyp/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
 - [Top 10 Algos in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 - [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
-
-[Back to Top](#top)
-
-## <a name="tips"></a>Coding Interview tips
-- [14 Tips for Skype Interview Success](https://www.inhersight.com/blog/interview/skype-interview-tips?utm_campaign=website&utm_source=ihs-sendgrid&utm_medium=email&_n=72258545)
-- [Average to Googler in Four Weeks: A Study Plan](https://www.linkedin.com/pulse/average-googler-four-weeks-study-plan-milad-naseri/?trk=v-feed)
-- [Geeks for Geeks](https://www.geeksforgeeks.org/)
-- [Tips & Tricks for the Nontraditional Engineer](https://peopleofcolorintech.com/articles/crushing-coding-interviews-tips-tricks-for-the-nontraditional-engineer/)
-- [Tips and Guidelines by Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit/tips-and-guidelines/videos)
 
 [Back to Top](#top)
 
