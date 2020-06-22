@@ -39,7 +39,7 @@ The first step to getting a job is getting noticed. To get that first initial en
 | Front End Portfolios| <ul><li>[Codepen.io](http://codepen.io/)</li><li>[JSFiddle](https://jsfiddle.net/)</li></ul>|
 | Back End Portfolios| <ul><li>[repl.it](http://repl.it/)</li><li>Github (please see section above)</li></ul> |
 | Full Stack Portfolios| [CodeSandBox](https://codesandbox.io/)|
-| Networking & Community Support | <ul><li>[Portland Tech Groups, Volunteering, & Return to Work]()</li><li>[Veteran Support]()</li><li>[Diversity in Tech]()</li></ul> |
+| Networking & Community Support | <ul><li>[Portland Tech Groups, Volunteering, & Return to Work](https://github.com/PdxCodeGuild/career-guide/blob/master/networking/portland-tech.md)</li><li>[Veteran Support](https://github.com/PdxCodeGuild/career-guide/blob/master/networking/veterans.md)</li><li>[Diversity in Tech](https://github.com/PdxCodeGuild/career-guide/blob/master/networking/diversity.md)</li></ul> |
 
 [Back to Top](#top)
 
