@@ -2,6 +2,8 @@
 
 Below are resources to aid you in your job search. Be sure to follow the guidelines below to ensure a strong online presence. Before you start, Google yourself to make sure there's nothing that you aren't proud of!
 
+[Full Stack Post Grad Slides: 'What to Expect When You're Expecting (a job)](https://docs.google.com/presentation/d/1AU5wGD9-ZdIBE47TklKKOZAJsTvHcR55Thf37W6i8ys/edit#slide=id.p)
+
 For those who are graduating from the Advanced JS, Node, React class, please view this [doc](/advanced/README.md) here.
 
 ## <a name="top"></a>Contents
