@@ -31,3 +31,5 @@ This is way to long to include on a resume. A shortened version of this would wo
 6. Enter your desired profile URL and click **save**.
 
     ![](../resources/linkedin/vanity_url6.PNG)
+    
+[Back to Main Page](/README.md)
