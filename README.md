@@ -57,6 +57,7 @@ The first step to getting a job is getting noticed. To get that first initial en
 | Type | Note |
 | ---- | -------- |
 | [Job Boards](applying-to-jobs/job-boards.md) | traditional, tech specific, and specific groups|
+| [60+ sites to look for developer jobs](https://twitter.com/RandallKanna/status/1285322775360532480)| a Twitter thread |
 | [Apprenticeships](applying-to-jobs/apprenticeships.md) | growing list of apprenticeships that accept applicants from non-technical backgrounds
 | [Remote Internships & Open Source Projects](https://www.facebook.com/womeninwebdev/videos/215052119638987/?hc_location=ufi) | video
 
