@@ -13,7 +13,7 @@ For those who are graduating from the Advanced JS, Node, React class, please vie
 - [Gaining Experience](#experience)
 - [Looking for Open Opportunities](#looking)
 - [Applying to Jobs](#applying)
-- [Staying Organized](#organize)
+- [Staying Organized](https://github.com/PdxCodeGuild/career-guide/blob/master/staying-organized.md)
 
 ### Part 2
 - [Coding Interview tips](#tips)
@@ -77,32 +77,6 @@ Before applying to jobs, you should make sure your resume is a good match for th
 | [The Muse](https://www.themuse.com/advice/beat-the-robots-how-to-get-your-resume-past-the-system-into-human-hands) | Beat the Robots: How to Get Your Resume Past the System & Into Human Hands
 
 [Back to Top](#top)
-
-## <a name="organize"></a>Staying Organized
-Applying to jobs and keeping track of everything can be extremely overwhelming. Use the following resources to keep track of things like:
-
-- applied to job
-- referral?
-- location of job
-- tech stack
-- remote flexibility
-- initial phone screen date
-- thank you note
-- follow up
-- technical phone screen date
-- thank you note
-- follow up
-- onsite interview date
-- follow up
-- offer amount
-- benefits
-- negotiation
-
-Keep track of all of the above with tools like Google Sheets ([example](https://docs.google.com/spreadsheets/d/1v4NXFGfQ5p-OH_WLgXusKAoLg8kSDi90H6ylJyBlYaE/edit?usp=sharing)) and [Trello](http://trello.com/)!
-
-[Back to Top](#top)
-
-***
 
 ## <a name="tips"></a>Coding Interview tips
 - [14 Tips for Skype Interview Success](https://www.inhersight.com/blog/interview/skype-interview-tips?utm_campaign=website&utm_source=ihs-sendgrid&utm_medium=email&_n=72258545)
