@@ -1,4 +1,5 @@
 # <a name="organize"></a>Staying Organized
+[Back to Main Page](https://github.com/PdxCodeGuild/career-guide/blob/master/staying-organized.md)
 
 Applying to jobs and keeping track of everything can be extremely overwhelming. Use the below resources to keep track of things like:
 
