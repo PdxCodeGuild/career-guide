@@ -35,7 +35,7 @@ The first step to getting a job is getting noticed. To get that first initial en
 | Unit | Topic |
 | ---- | -------- |
 | Resume | <ul><li>[The Purpose of a Resume](/resume/purpose.md)</li><li>[Resume Sections](/resume/sections.md)</li><li>[Writing Content for Your Resume](/resume/content.md)</li></ul>
-| Resume Resources| <ul><li>[Resume Template from PDX Code Guild](https://docs.google.com/document/d/1XQm8zTHvvz-_ldEifbvAUPXgGbZYwbAUnTuSyIvaCgQ/edit)</li><li>[139 action verbs](https://www.indeed.com/career-advice/resumes-cover-letters/action-verbs-to-make-your-resume-stand-out?from=careeradvice-US)</li><li>[Creddle - Resume Builder](http://creddle.io/)</li><li>[Hiration - Tech Resume Builder](https://www.hiration.com/)</li><li>[Canva - Graphic Design Platform](https://www.canva.com/)</li></ul>
+| Resume Resources| <ul><li>[Resume Template from PDX Code Guild](https://docs.google.com/document/d/1XQm8zTHvvz-_ldEifbvAUPXgGbZYwbAUnTuSyIvaCgQ/edit)</li><li>[139 action verbs](https://www.indeed.com/career-advice/resumes-cover-letters/action-verbs-to-make-your-resume-stand-out?from=careeradvice-US)</li><li>[Creddle - Resume Builder](http://creddle.io/)</li><li>[Hiration - Tech Resume Builder](https://www.hiration.com/)</li><li>[ResumeAI - Free ATS checker](https://withresumeai.com/)</li><li>[Canva - Graphic Design Platform](https://www.canva.com/)</li></ul>
 | LinkedIn | <ul><li>[vanity URL](/linkedin/vanity_url.md)</li><li>[info header](/linkedin/info_header.md)</li><li>[about section](/linkedin/about.md)</li><li>[media](/linkedin/media.md)</li><li>[experience](/linkedin/experience.md)</li></ul>
 | Github | <ul><li>[Mastering Markdown](https://github.com/PdxCodeGuild/career-guide/blob/master/github/markdown.md)</li><li>[An Impressive README.md](https://github.com/PdxCodeGuild/career-guide/blob/master/github/readmes.md)</li><li>[Your GitHub Portfolio](github/github-portfolio.md)</li></ul>
 | Front End Portfolios| <ul><li>[Codepen.io](http://codepen.io/)</li><li>[JSFiddle](https://jsfiddle.net/)</li></ul>|
@@ -72,6 +72,7 @@ Before applying to jobs, you should make sure your resume is a good match for th
 | Resource | Note |
 | ---- | -------- |
 | [Jobscan](applying-to-jobs/jobscan.md) | The smart way to beat resume filters
+| [ResumeAI](https://withresumeai.com/) | Free ATS checker and AI resume builder
 | [Forbes](https://www.forbes.com/sites/nextavenue/2014/03/18/how-to-get-your-resume-read-by-an-employer/#7f7506136865) | How To Get Your Resume Read By An Employer
 | [TopResume.com](https://www.topresume.com/career-advice/what-is-an-ats-resume) | What Is an ATS? How to Write a Resume to Beat the Bots
 | [The Muse](https://www.themuse.com/advice/beat-the-robots-how-to-get-your-resume-past-the-system-into-human-hands) | Beat the Robots: How to Get Your Resume Past the System & Into Human Hands
